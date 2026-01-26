@@ -5,16 +5,20 @@
 
 from .heatmaps import *
 from .scientific_plots import *
-from .network_diagrams import *
-from .specialized_charts import *
+from .professional_colors import *
 
 __all__ = [
+    # 热力图相关
     'plot_heatmap',
     'plot_clustermap',
     'plot_correlation_matrix',
+    'plot_imshow',
+    # 科学出版物级图表
     'plot_publication_figure',
-    'plot_network_diagram',
-    'plot_sankey',
-    'plot_parallel_coordinates',
-    'plot_radar_chart',
+    'plot_multi_panel_figure',
+    'plot_with_annotations',
+    'PublicationStyle',
+    # 专业配色
+    'get_color_scheme',
+    'create_custom_colormap',
 ]

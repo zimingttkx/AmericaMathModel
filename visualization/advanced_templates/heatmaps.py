@@ -74,17 +74,24 @@ def plot_heatmap(data: Union[np.ndarray, pd.DataFrame],
     >>> fig, ax = plot_heatmap(data, cmap='RdYlBu_r')
     """
     fig, ax = plt.subplots(figsize=figsize)
-    
+
     # 如果是 DataFrame，使用其索引和列
     if isinstance(data, pd.DataFrame):
         if xticklabels is None:
             xticklabels = data.columns
         if yticklabels is None:
             yticklabels = data.index
-        data = data.values
-    
+        data_values = data.values
+    else:
+        # 如果是 numpy array，确保标签不是 None
+        data_values = data
+        if xticklabels is None:
+            xticklabels = True  # seaborn 会自动使用索引
+        if yticklabels is None:
+            yticklabels = True
+
     # 绘制热力图
-    sns.heatmap(data, vmin=vmin, vmax=vmax, cmap=cmap, center=center,
+    sns.heatmap(data_values, vmin=vmin, vmax=vmax, cmap=cmap, center=center,
                 annot=annot, fmt=fmt, linewidths=linewidths, linecolor=linecolor,
                 cbar=cbar, xticklabels=xticklabels, yticklabels=yticklabels,
                 ax=ax)
