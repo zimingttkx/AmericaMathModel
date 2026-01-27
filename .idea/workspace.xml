@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b13129f-c4e7-4064-a28a-d6e9d830f5d7" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AmericaMathModel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/evaluation/ahp/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/evaluation/fuzzy_evaluation/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/evaluation/topsis/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/graph_network/graph_coloring/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/graph_network/network_flow/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/graph_network/shortest_path/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/optimization/genetic_algorithm/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/optimization/linear_programming/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/optimization/particle_swarm/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/optimization/simulated_annealing/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/prediction/neural_network/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/prediction/regression/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/prediction/time_series/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/statistics/clustering/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/statistics/correlation/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/statistics/hypothesis_test/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sample/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/evaluation_example/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/optimization_example/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/prediction_example/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference/algorithm_mindmap/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/data_processing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/file_io.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/math_tools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization/advanced_templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization/advanced_templates/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization/advanced_templates/heatmaps.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualization/advanced_templates/heatmaps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization/networkx_templates/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization/plotly_templates/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization/seaborn_templates/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/figures/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/model_code/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/problem_analysis/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/results/.gitkeep" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zimingttkx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:zimingttkx/AmericaMathModel.git&quot;,
+    &quot;accountId&quot;: &quot;61f09f25-5251-497e-98e9-4699f230b45a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -112,6 +85,8 @@
       <updated>1769341709226</updated>
       <workItem from="1769341710260" duration="4586000" />
       <workItem from="1769346322220" duration="25583000" />
+      <workItem from="1769409872121" duration="508000" />
+      <workItem from="1769478836485" duration="4224000" />
     </task>
     <servers />
   </component>
