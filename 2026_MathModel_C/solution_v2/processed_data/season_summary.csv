@@ -1,0 +1,35 @@
+season,n_contestants,max_weeks,total_eliminations,voting_rule,winner
+1,6,6,3,rank_v1,Kelly Monaco
+2,10,8,7,rank_v1,Drew Lachey
+3,11,10,7,percentage,Emmitt Smith
+4,11,10,8,percentage,Apolo Anton Ohno
+5,12,10,9,percentage,Helio Castroneves
+6,12,10,9,percentage,Kristi Yamaguchi
+7,13,10,9,percentage,Brooke Burke
+8,13,11,10,percentage,Shawn Johnson
+9,16,10,12,percentage,Donny Osmond
+10,11,10,8,percentage,Nicole Scherzinger
+11,12,10,9,percentage,Jennifer Grey
+12,11,10,8,percentage,Hines Ward
+13,12,10,9,percentage,J.R. Martinez
+14,12,10,9,percentage,Donald Driver
+15,13,10,10,percentage,Melissa Rycroft
+16,12,10,8,percentage,Kellie Pickler
+17,12,11,9,percentage,Amber Riley
+18,12,10,8,percentage,Meryl Davis
+19,13,11,10,percentage,Alfonso Ribeiro
+20,12,10,9,percentage,Rumer Willis
+21,13,11,8,percentage,Bindi Irwin
+22,12,10,9,percentage,Nyle DiMarco
+23,13,11,10,percentage,Laurie Hernandez
+24,12,10,9,percentage,Rashad Jennings
+25,13,10,10,percentage,Jordan Fisher
+26,10,4,7,percentage,Adam Rippon
+27,13,9,9,percentage,Bobby Bones
+28,12,11,7,rank_v2,Hannah Brown
+29,15,11,10,rank_v2,Kaitlyn Bristowe
+30,15,10,11,rank_v2,Iman Shumpert
+31,16,10,11,rank_v2,Charli D'Amelio
+32,14,11,9,rank_v2,Xochitl Gomez
+33,13,9,8,rank_v2,Joey Graziadei
+34,14,11,9,rank_v2,Robert Irwin

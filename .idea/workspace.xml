@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b13129f-c4e7-4064-a28a-d6e9d830f5d7" name="更改" comment="feat: 添加数据预处理模块，包含数据清洗、特征工程及模型评估功能">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/三种方案综合对比.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/三种方案综合对比.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案A_线性规划模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案A_线性规划模型.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案B_贝叶斯MCMC模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案B_贝叶斯MCMC模型.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案C_遗传算法模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q1_粉丝投票估算/方案C_遗传算法模型.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q2_投票机制对比/问题2_投票机制对比分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q2_投票机制对比/问题2_投票机制对比分析.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q3_因素影响分析/问题3_因素影响分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q3_因素影响分析/问题3_因素影响分析.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q4_新赛制设计/问题4_新赛制提议.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026_MathModel_C/solution_v1/Q4_新赛制设计/问题4_新赛制提议.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +105,7 @@
       <workItem from="1769695840871" duration="66000" />
       <workItem from="1769726018175" duration="8073000" />
       <workItem from="1769737046002" duration="18200000" />
+      <workItem from="1769761811580" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加数据预处理模块，包含数据清洗、特征工程及模型评估功能">
       <option name="closed" value="true" />
@@ -120,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769753642675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 添加数据预处理模块，包含数据清洗、特征工程及模型评估功能">
+      <option name="closed" value="true" />
+      <created>1769761830988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769761830988</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 添加数据预处理模块，包含数据清洗、特征工程及模型评估功能">
+      <option name="closed" value="true" />
+      <created>1769765718948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769765718948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

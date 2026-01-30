@@ -1,0 +1,2545 @@
+{
+  "3": {
+    "1": {
+      "Harry Hamlin": 0.080188679245283,
+      "Vivica A. Fox": 0.10377358490566038,
+      "Monique Coleman": 0.08962264150943397,
+      "Joey Lawrence": 0.09905660377358494,
+      "Mario Lopez": 0.12264150943396226,
+      "Emmitt Smith": 0.11320754716981132,
+      "Shanna Moakler": 0.08490566037735849,
+      "Willa Ford": 0.10377358490566038,
+      "Sara Evans": 0.07075471698113207,
+      "Jerry Springer": 0.07547169811320756,
+      "Tucker Carlson": 0.05660377358490566
+    },
+    "2": {
+      "Harry Hamlin": 0.09130434782608696,
+      "Vivica A. Fox": 0.10434782608695646,
+      "Monique Coleman": 0.11304347826086956,
+      "Joey Lawrence": 0.12608695652173918,
+      "Mario Lopez": 0.09130434782608696,
+      "Emmitt Smith": 0.10434782608695649,
+      "Shanna Moakler": 0.08260869565217388,
+      "Willa Ford": 0.1,
+      "Sara Evans": 0.09130434782608698,
+      "Jerry Springer": 0.09565217391304348
+    },
+    "3": {
+      "Harry Hamlin": 0.09178743961352656,
+      "Vivica A. Fox": 0.13043478260869565,
+      "Monique Coleman": 0.13043478260869565,
+      "Joey Lawrence": 0.10628019323671498,
+      "Mario Lopez": 0.10628019323671498,
+      "Emmitt Smith": 0.10628019323671495,
+      "Willa Ford": 0.10628019323671498,
+      "Sara Evans": 0.12077294685990336,
+      "Jerry Springer": 0.10144927536231885
+    },
+    "4": {
+      "Vivica A. Fox": 0.10101010101010101,
+      "Monique Coleman": 0.12121212121212122,
+      "Joey Lawrence": 0.13636363636363635,
+      "Mario Lopez": 0.14646464646464646,
+      "Emmitt Smith": 0.12121212121212122,
+      "Willa Ford": 0.1414141414141414,
+      "Sara Evans": 0.12121212121212122,
+      "Jerry Springer": 0.11111111111111112
+    },
+    "5": {
+      "Monique Coleman": 0.14917127071823205,
+      "Joey Lawrence": 0.13812154696132597,
+      "Mario Lopez": 0.14917127071823205,
+      "Emmitt Smith": 0.14917127071823205,
+      "Willa Ford": 0.12707182320441993,
+      "Sara Evans": 0.14364640883977906,
+      "Jerry Springer": 0.14364640883977906
+    },
+    "6": {
+      "Monique Coleman": 0.19491525423728806,
+      "Joey Lawrence": 0.2033898305084746,
+      "Mario Lopez": 0.23728813559322037,
+      "Emmitt Smith": 0.211864406779661,
+      "Jerry Springer": 0.15254237288135594
+    },
+    "7": {
+      "Monique Coleman": 0.2,
+      "Joey Lawrence": 0.21111111111111105,
+      "Mario Lopez": 0.2074074074074074,
+      "Emmitt Smith": 0.21111111111111114,
+      "Jerry Springer": 0.17037037037037045
+    },
+    "8": {
+      "Monique Coleman": 0.24311926605504589,
+      "Joey Lawrence": 0.2477064220183487,
+      "Mario Lopez": 0.26146788990825687,
+      "Emmitt Smith": 0.24770642201834858
+    },
+    "9": {
+      "Joey Lawrence": 0.3333333333333334,
+      "Mario Lopez": 0.3333333333333333,
+      "Emmitt Smith": 0.3333333333333333
+    },
+    "10": {
+      "Mario Lopez": 0.5,
+      "Emmitt Smith": 0.5
+    }
+  },
+  "4": {
+    "1": {
+      "John Ratzenberger": 0.0825242718446602,
+      "Ian Ziering": 0.10194174757281556,
+      "Clyde Drexler": 0.07766990291262131,
+      "Laila Ali": 0.11165048543689322,
+      "Apolo Anton Ohno": 0.10194174757281559,
+      "Shandi Finnessey": 0.09223300970873786,
+      "Paulina Porizkova": 0.09223300970873786,
+      "Heather Mills": 0.08737864077669903,
+      "Billy Ray Cyrus": 0.06310679611650485,
+      "Joey Fatone": 0.11650485436893222,
+      "Leeza Gibbons": 0.07281553398058252
+    },
+    "2": {
+      "John Ratzenberger": 0.08571428571428577,
+      "Ian Ziering": 0.08979591836734693,
+      "Clyde Drexler": 0.08571428571428577,
+      "Laila Ali": 0.11020408163265302,
+      "Apolo Anton Ohno": 0.10612244897959183,
+      "Shandi Finnessey": 0.08163265306122448,
+      "Paulina Porizkova": 0.07346938775510206,
+      "Heather Mills": 0.09795918367346934,
+      "Billy Ray Cyrus": 0.08571428571428572,
+      "Joey Fatone": 0.09795918367346937,
+      "Leeza Gibbons": 0.08571428571428572
+    },
+    "3": {
+      "John Ratzenberger": 0.09174311926605505,
+      "Ian Ziering": 0.11009174311926609,
+      "Clyde Drexler": 0.09633027522935778,
+      "Laila Ali": 0.09633027522935778,
+      "Apolo Anton Ohno": 0.10550458715596331,
+      "Shandi Finnessey": 0.07339449541284401,
+      "Heather Mills": 0.11009174311926606,
+      "Billy Ray Cyrus": 0.0963302752293578,
+      "Joey Fatone": 0.11009174311926603,
+      "Leeza Gibbons": 0.11009174311926609
+    },
+    "4": {
+      "John Ratzenberger": 0.08421052631578947,
+      "Ian Ziering": 0.12631578947368421,
+      "Clyde Drexler": 0.08421052631578949,
+      "Laila Ali": 0.11052631578947364,
+      "Apolo Anton Ohno": 0.13684210526315788,
+      "Heather Mills": 0.1210526315789473,
+      "Billy Ray Cyrus": 0.11052631578947368,
+      "Joey Fatone": 0.14736842105263154,
+      "Leeza Gibbons": 0.07894736842105264
+    },
+    "5": {
+      "John Ratzenberger": 0.10227272727272728,
+      "Ian Ziering": 0.13636363636363633,
+      "Clyde Drexler": 0.07386363636363635,
+      "Laila Ali": 0.1590909090909091,
+      "Apolo Anton Ohno": 0.17045454545454544,
+      "Heather Mills": 0.1193181818181819,
+      "Billy Ray Cyrus": 0.09659090909090909,
+      "Joey Fatone": 0.14204545454545456
+    },
+    "6": {
+      "John Ratzenberger": 0.13529411764705887,
+      "Ian Ziering": 0.1411764705882353,
+      "Laila Ali": 0.16470588235294117,
+      "Apolo Anton Ohno": 0.16470588235294117,
+      "Heather Mills": 0.111764705882353,
+      "Billy Ray Cyrus": 0.12352941176470593,
+      "Joey Fatone": 0.1588235294117647
+    },
+    "7": {
+      "John Ratzenberger": 0.12297734627831713,
+      "Ian Ziering": 0.17475728155339806,
+      "Laila Ali": 0.19093851132686085,
+      "Apolo Anton Ohno": 0.17475728155339806,
+      "Billy Ray Cyrus": 0.14563106796116504,
+      "Joey Fatone": 0.19093851132686085
+    },
+    "8": {
+      "Ian Ziering": 0.18725099601593614,
+      "Laila Ali": 0.21115537848605578,
+      "Apolo Anton Ohno": 0.23107569721115537,
+      "Billy Ray Cyrus": 0.1513944223107569,
+      "Joey Fatone": 0.21912350597609578
+    },
+    "9": {
+      "Ian Ziering": 0.24472573839662448,
+      "Laila Ali": 0.2531645569620254,
+      "Apolo Anton Ohno": 0.2489451476793249,
+      "Joey Fatone": 0.2531645569620253
+    },
+    "10": {
+      "Laila Ali": 0.3281854310465651,
+      "Apolo Anton Ohno": 0.33976850076853676,
+      "Joey Fatone": 0.3320460681848982
+    }
+  },
+  "5": {
+    "1": {
+      "Cameron Mathison": 0.0817120622568091,
+      "Jane Seymour": 0.0933852140077821,
+      "Sabrina Bryan": 0.10116731517509728,
+      "Jennie Garth": 0.08171206225680937,
+      "Floyd Mayweather Jr. ": 0.07003891050583658,
+      "Josie Maran": 0.06225680933852143,
+      "Albert Reed": 0.08171206225680934,
+      "Helio Castroneves": 0.09727626459143969,
+      "Mel B": 0.0933852140077821,
+      "Wayne Newton": 0.07392996108949416,
+      "Marie Osmond": 0.08171206225680944,
+      "Mark Cuban": 0.08171206225680934
+    },
+    "2": {
+      "Cameron Mathison": 0.08823529411764695,
+      "Jane Seymour": 0.08823529411764706,
+      "Sabrina Bryan": 0.10924369747899164,
+      "Jennie Garth": 0.08823529411764709,
+      "Floyd Mayweather Jr. ": 0.08823529411764706,
+      "Albert Reed": 0.0630252100840336,
+      "Helio Castroneves": 0.1134453781512605,
+      "Mel B": 0.09663865546218485,
+      "Wayne Newton": 0.08823529411764705,
+      "Marie Osmond": 0.10084033613445383,
+      "Mark Cuban": 0.07563025210084033
+    },
+    "3": {
+      "Cameron Mathison": 0.09623430962343096,
+      "Jane Seymour": 0.11297071129707116,
+      "Sabrina Bryan": 0.11297071129707113,
+      "Jennie Garth": 0.10878661087866105,
+      "Floyd Mayweather Jr. ": 0.08786610878661087,
+      "Helio Castroneves": 0.10041841004184114,
+      "Mel B": 0.11297071129707113,
+      "Wayne Newton": 0.07531380753138076,
+      "Marie Osmond": 0.10878661087866105,
+      "Mark Cuban": 0.08368200836820082
+    },
+    "4": {
+      "Cameron Mathison": 0.11538461538461547,
+      "Jane Seymour": 0.1111111111111111,
+      "Sabrina Bryan": 0.1282051282051282,
+      "Jennie Garth": 0.11538461538461536,
+      "Floyd Mayweather Jr. ": 0.09401709401709385,
+      "Helio Castroneves": 0.11538461538461547,
+      "Mel B": 0.1111111111111111,
+      "Marie Osmond": 0.11111111111111116,
+      "Mark Cuban": 0.09829059829059819
+    },
+    "5": {
+      "Cameron Mathison": 0.1306532663316583,
+      "Jane Seymour": 0.1306532663316583,
+      "Sabrina Bryan": 0.1407035175879397,
+      "Jennie Garth": 0.12562814070351758,
+      "Helio Castroneves": 0.11557788944723621,
+      "Mel B": 0.1457286432160804,
+      "Marie Osmond": 0.10552763819095477,
+      "Mark Cuban": 0.10552763819095477
+    },
+    "6": {
+      "Cameron Mathison": 0.1388888888888889,
+      "Jane Seymour": 0.13703703703703707,
+      "Sabrina Bryan": 0.12037037037037039,
+      "Jennie Garth": 0.15,
+      "Helio Castroneves": 0.15555555555555556,
+      "Mel B": 0.16666666666666666,
+      "Marie Osmond": 0.13148148148148153
+    },
+    "7": {
+      "Cameron Mathison": 0.16346153846153844,
+      "Jane Seymour": 0.1602564102564104,
+      "Jennie Garth": 0.16987179487179482,
+      "Helio Castroneves": 0.16666666666666666,
+      "Mel B": 0.17307692307692307,
+      "Marie Osmond": 0.16666666666666666
+    },
+    "8": {
+      "Cameron Mathison": 0.18631178707224338,
+      "Jennie Garth": 0.19011406844106463,
+      "Helio Castroneves": 0.21673003802281368,
+      "Mel B": 0.21292775665399238,
+      "Marie Osmond": 0.19391634980988595
+    },
+    "9": {
+      "Jennie Garth": 0.23931623931623935,
+      "Helio Castroneves": 0.2564102564102564,
+      "Mel B": 0.2564102564102564,
+      "Marie Osmond": 0.2478632478632479
+    },
+    "10": {
+      "Helio Castroneves": 0.35294095402801606,
+      "Mel B": 0.3571422268889026,
+      "Marie Osmond": 0.2899168190830813
+    }
+  },
+  "6": {
+    "1": {
+      "Cristian de la Fuente": 0.08641975308641975,
+      "Steve Guttenberg": 0.07407407407407407,
+      "Priscilla Presley": 0.09876543209876543,
+      "Marlee Matlin": 0.0905349794238684,
+      "Shannon Elizabeth": 0.08641975308641991,
+      "Marissa Jaret Winokur": 0.07407407407407396,
+      "Jason Taylor": 0.09053497942386807,
+      "Kristi Yamaguchi": 0.11111111111111116,
+      "Monica Seles": 0.06172839506172839,
+      "Penn Jillette": 0.06584362139917696,
+      "Adam Carolla": 0.06172839506172839,
+      "Mario": 0.09876543209876543
+    },
+    "2": {
+      "Cristian de la Fuente": 0.07782101167315172,
+      "Steve Guttenberg": 0.06614785992217896,
+      "Priscilla Presley": 0.08171206225680934,
+      "Marlee Matlin": 0.09338521400778212,
+      "Shannon Elizabeth": 0.0933852140077821,
+      "Marissa Jaret Winokur": 0.08171206225680934,
+      "Jason Taylor": 0.10505836575875487,
+      "Kristi Yamaguchi": 0.10505836575875487,
+      "Monica Seles": 0.05836575875486383,
+      "Penn Jillette": 0.06225680933852139,
+      "Adam Carolla": 0.07392996108949416,
+      "Mario": 0.10116731517509728
+    },
+    "3": {
+      "Cristian de la Fuente": 0.10964912280701754,
+      "Steve Guttenberg": 0.08333333333333344,
+      "Priscilla Presley": 0.11403508771929824,
+      "Marlee Matlin": 0.0921052631578947,
+      "Shannon Elizabeth": 0.10526315789473684,
+      "Marissa Jaret Winokur": 0.09210526315789479,
+      "Jason Taylor": 0.10087719298245613,
+      "Kristi Yamaguchi": 0.11842105263157894,
+      "Adam Carolla": 0.0921052631578947,
+      "Mario": 0.09210526315789468
+    },
+    "4": {
+      "Cristian de la Fuente": 0.11555555555555555,
+      "Priscilla Presley": 0.09777777777777785,
+      "Marlee Matlin": 0.10666666666666667,
+      "Shannon Elizabeth": 0.12444444444444436,
+      "Marissa Jaret Winokur": 0.10666666666666667,
+      "Jason Taylor": 0.1288888888888889,
+      "Kristi Yamaguchi": 0.1288888888888889,
+      "Adam Carolla": 0.08444444444444443,
+      "Mario": 0.10666666666666667
+    },
+    "5": {
+      "Cristian de la Fuente": 0.11734693877551021,
+      "Priscilla Presley": 0.1071428571428571,
+      "Marlee Matlin": 0.1122448979591838,
+      "Shannon Elizabeth": 0.11734693877551021,
+      "Marissa Jaret Winokur": 0.12244897959183673,
+      "Jason Taylor": 0.1377551020408163,
+      "Kristi Yamaguchi": 0.14795918367346939,
+      "Mario": 0.1377551020408163
+    },
+    "6": {
+      "Cristian de la Fuente": 0.15,
+      "Marlee Matlin": 0.11666666666666667,
+      "Shannon Elizabeth": 0.13333333333333333,
+      "Marissa Jaret Winokur": 0.14444444444444446,
+      "Jason Taylor": 0.13333333333333333,
+      "Kristi Yamaguchi": 0.16666666666666666,
+      "Mario": 0.15555555555555559
+    },
+    "7": {
+      "Cristian de la Fuente": 0.16504854368932037,
+      "Shannon Elizabeth": 0.14886731391585759,
+      "Marissa Jaret Winokur": 0.16828478964401294,
+      "Jason Taylor": 0.1779935275080906,
+      "Kristi Yamaguchi": 0.17475728155339806,
+      "Mario": 0.1650485436893204
+    },
+    "8": {
+      "Cristian de la Fuente": 0.21348314606741572,
+      "Marissa Jaret Winokur": 0.19850187265917602,
+      "Jason Taylor": 0.1947565543071161,
+      "Kristi Yamaguchi": 0.20599250936329588,
+      "Mario": 0.18726591760299624
+    },
+    "9": {
+      "Cristian de la Fuente": 0.2545454545454545,
+      "Marissa Jaret Winokur": 0.23636363636363633,
+      "Jason Taylor": 0.25,
+      "Kristi Yamaguchi": 0.25909090909090915
+    },
+    "10": {
+      "Cristian de la Fuente": 0.3076923076923077,
+      "Jason Taylor": 0.33727810650887574,
+      "Kristi Yamaguchi": 0.35502958579881655
+    }
+  },
+  "7": {
+    "1": {
+      "Ted McGinley": 0.06349206349206354,
+      "Cloris Leachman": 0.07341269841269844,
+      "Susan Lucci": 0.07341269841269839,
+      "Cody Linley": 0.08134920634920627,
+      "Misty May-Treanor": 0.08333333333333333,
+      "Maurice Greene": 0.07738095238095237,
+      "Warren Sapp": 0.08531746031746032,
+      "Jeffrey Ross": 0.047619047619047616,
+      "Toni Braxton": 0.08928571428571429,
+      "Lance Bass": 0.08531746031746032,
+      "Kim Kardashian": 0.07341269841269842,
+      "Rocco DiSpirito": 0.06944444444444443,
+      "Brooke Burke": 0.0972222222222222
+    },
+    "2": {
+      "Cloris Leachman": 0.07692307692307693,
+      "Susan Lucci": 0.09502262443438914,
+      "Cody Linley": 0.09502262443438897,
+      "Misty May-Treanor": 0.09502262443438919,
+      "Maurice Greene": 0.08597285067873307,
+      "Warren Sapp": 0.1085972850678733,
+      "Toni Braxton": 0.10407239819004527,
+      "Lance Bass": 0.0904977375565611,
+      "Kim Kardashian": 0.0678733031674208,
+      "Rocco DiSpirito": 0.07239819004524883,
+      "Brooke Burke": 0.1085972850678733
+    },
+    "3": {
+      "Cloris Leachman": 0.08040201005025126,
+      "Susan Lucci": 0.10552763819095473,
+      "Cody Linley": 0.10552763819095477,
+      "Maurice Greene": 0.12060301507537685,
+      "Warren Sapp": 0.12562814070351758,
+      "Toni Braxton": 0.11055276381909548,
+      "Lance Bass": 0.11055276381909551,
+      "Rocco DiSpirito": 0.10050251256281406,
+      "Brooke Burke": 0.1407035175879397
+    },
+    "4": {
+      "Cloris Leachman": 0.10837438423645329,
+      "Susan Lucci": 0.11822660098522168,
+      "Cody Linley": 0.11330049261083742,
+      "Maurice Greene": 0.09852216748768472,
+      "Warren Sapp": 0.10837438423645326,
+      "Toni Braxton": 0.10837438423645322,
+      "Lance Bass": 0.12807881773399,
+      "Rocco DiSpirito": 0.08866995073891626,
+      "Brooke Burke": 0.12807881773399016
+    },
+    "5": {
+      "Cloris Leachman": 0.11111111111111112,
+      "Susan Lucci": 0.11282051282051282,
+      "Cody Linley": 0.14358974358974358,
+      "Maurice Greene": 0.13846153846153847,
+      "Warren Sapp": 0.1282051282051282,
+      "Toni Braxton": 0.105982905982906,
+      "Lance Bass": 0.11111111111111112,
+      "Brooke Burke": 0.14871794871794872
+    },
+    "6": {
+      "Cloris Leachman": 0.09375,
+      "Susan Lucci": 0.14375,
+      "Cody Linley": 0.14375,
+      "Maurice Greene": 0.13125000000000003,
+      "Warren Sapp": 0.15625,
+      "Lance Bass": 0.16875000000000007,
+      "Brooke Burke": 0.1624999999999998
+    },
+    "7": {
+      "Susan Lucci": 0.14058956916099774,
+      "Cody Linley": 0.15419501133786848,
+      "Maurice Greene": 0.17006802721088435,
+      "Warren Sapp": 0.16099773242630386,
+      "Lance Bass": 0.17006802721088435,
+      "Brooke Burke": 0.20408163265306123
+    },
+    "8": {
+      "Cody Linley": 0.18823529411764706,
+      "Maurice Greene": 0.18823529411764706,
+      "Warren Sapp": 0.21176470588235294,
+      "Lance Bass": 0.19607843137254902,
+      "Brooke Burke": 0.2156862745098039
+    },
+    "9": {
+      "Cody Linley": 0.22885572139303484,
+      "Warren Sapp": 0.24378109452736307,
+      "Lance Bass": 0.2835820895522388,
+      "Brooke Burke": 0.24378109452736324
+    },
+    "10": {
+      "Warren Sapp": 0.3235294117647059,
+      "Lance Bass": 0.3235294117647059,
+      "Brooke Burke": 0.35294117647058826
+    }
+  },
+  "8": {
+    "1": {
+      "Gilles Marini": 0.09876543209876554,
+      "Denise Richards": 0.07407407407407407,
+      "David Alan Grier": 0.07818930041152264,
+      "Lawrence Taylor": 0.06584362139917696,
+      "Ty Murray": 0.05761316872427984,
+      "Shawn Johnson": 0.09465020576131689,
+      "Steve Wozniak": 0.053497942386831275,
+      "Belinda Carlisle": 0.06995884773662553,
+      "Chuck Wicks": 0.0823045267489712,
+      "Lil' Kim": 0.08641975308641975,
+      "Steve-O": 0.06995884773662553,
+      "Holly Madison": 0.07407407407407407,
+      "Melissa Rycroft": 0.09465020576131689
+    },
+    "2": {
+      "Gilles Marini": 0.10188679245283014,
+      "Denise Richards": 0.07924528301886792,
+      "David Alan Grier": 0.06415094339622641,
+      "Lawrence Taylor": 0.0754716981132075,
+      "Ty Murray": 0.07547169811320754,
+      "Shawn Johnson": 0.09056603773584906,
+      "Steve Wozniak": 0.0641509433962264,
+      "Belinda Carlisle": 0.05283018867924538,
+      "Chuck Wicks": 0.07547169811320753,
+      "Lil' Kim": 0.08679245283018867,
+      "Steve-O": 0.06792452830188689,
+      "Holly Madison": 0.06792452830188678,
+      "Melissa Rycroft": 0.09811320754716982
+    },
+    "3": {
+      "Gilles Marini": 0.10629921259842523,
+      "Denise Richards": 0.03937007874015742,
+      "David Alan Grier": 0.09448818897637795,
+      "Lawrence Taylor": 0.0787401574803149,
+      "Ty Murray": 0.09055118110236221,
+      "Shawn Johnson": 0.10629921259842512,
+      "Steve Wozniak": 0.06299212598425191,
+      "Chuck Wicks": 0.09055118110236221,
+      "Lil' Kim": 0.0984251968503937,
+      "Steve-O": 0.05905511811023639,
+      "Holly Madison": 0.06692913385826772,
+      "Melissa Rycroft": 0.1062992125984252
+    },
+    "4": {
+      "Gilles Marini": 0.12396694214876035,
+      "David Alan Grier": 0.09090909090909091,
+      "Lawrence Taylor": 0.07851239669421488,
+      "Ty Murray": 0.10330578512396689,
+      "Shawn Johnson": 0.10330578512396692,
+      "Steve Wozniak": 0.049586776859504134,
+      "Chuck Wicks": 0.09090909090909091,
+      "Lil' Kim": 0.1115702479338843,
+      "Steve-O": 0.06611570247933882,
+      "Holly Madison": 0.06198347107438013,
+      "Melissa Rycroft": 0.1198347107438016
+    },
+    "5": {
+      "Gilles Marini": 0.13809523809523808,
+      "David Alan Grier": 0.08571428571428567,
+      "Lawrence Taylor": 0.09523809523809523,
+      "Ty Murray": 0.1,
+      "Shawn Johnson": 0.12380952380952379,
+      "Chuck Wicks": 0.10952380952380969,
+      "Lil' Kim": 0.12380952380952379,
+      "Steve-O": 0.10476190476190472,
+      "Melissa Rycroft": 0.11904761904761904
+    },
+    "6": {
+      "Gilles Marini": 0.13978494623655913,
+      "Lawrence Taylor": 0.11827956989247312,
+      "Ty Murray": 0.09677419354838712,
+      "Shawn Johnson": 0.13978494623655913,
+      "Chuck Wicks": 0.12365591397849462,
+      "Lil' Kim": 0.15053763440860213,
+      "Steve-O": 0.08602150537634409,
+      "Melissa Rycroft": 0.14516129032258063
+    },
+    "7": {
+      "Gilles Marini": 0.14835164835164835,
+      "Lawrence Taylor": 0.11538461538461539,
+      "Ty Murray": 0.13186813186813187,
+      "Shawn Johnson": 0.15384615384615383,
+      "Chuck Wicks": 0.14835164835164835,
+      "Lil' Kim": 0.14285714285714282,
+      "Melissa Rycroft": 0.15934065934065936
+    },
+    "8": {
+      "Gilles Marini": 0.1762820512820513,
+      "Ty Murray": 0.16666666666666666,
+      "Shawn Johnson": 0.16666666666666666,
+      "Chuck Wicks": 0.14743589743589744,
+      "Lil' Kim": 0.1794871794871795,
+      "Melissa Rycroft": 0.16346153846153846
+    },
+    "9": {
+      "Gilles Marini": 0.20973782771535582,
+      "Ty Murray": 0.19475655430711605,
+      "Shawn Johnson": 0.20973782771535582,
+      "Lil' Kim": 0.1722846441947565,
+      "Melissa Rycroft": 0.21348314606741572
+    },
+    "10": {
+      "Gilles Marini": 0.273972602739726,
+      "Ty Murray": 0.2191780821917808,
+      "Shawn Johnson": 0.2557077625570776,
+      "Melissa Rycroft": 0.25114155251141557
+    },
+    "11": {
+      "Gilles Marini": 0.3314285714285714,
+      "Shawn Johnson": 0.34285714285714286,
+      "Melissa Rycroft": 0.32571428571428573
+    }
+  },
+  "9": {
+    "1": {
+      "Ashley Hamiliton": 0.046797967676719905,
+      "Debi Mazar": 0.05418740566465287,
+      "Melissa Joan Hart": 0.0591135334523486,
+      "Mark Dacascos": 0.071428360308809,
+      "Chuck Liddell": 0.05418740566465287,
+      "Natalie Coughlin": 0.06650223252111338,
+      "Louie Vito": 0.06650223252111338,
+      "Michael Irvin": 0.046798213983109155,
+      "Joanna Krupa": 0.08374392608443781,
+      "Kathy Ireland": 0.04926103157056774,
+      "Tom DeLay": 0.049261031570567854,
+      "Macy Gray": 0.04679796767672004,
+      "Aaron Carter": 0.07881779829674204,
+      "Mya": 0.07635473440289411,
+      "Donny Osmond": 0.07389167050904633,
+      "Kelly Osbourne": 0.07635448809650482
+    },
+    "2": {
+      "Debi Mazar": 0.0714285714285715,
+      "Melissa Joan Hart": 0.06462585034013611,
+      "Mark Dacascos": 0.07142857142857145,
+      "Chuck Liddell": 0.06462585034013602,
+      "Natalie Coughlin": 0.07142857142857142,
+      "Louie Vito": 0.0646258503401361,
+      "Michael Irvin": 0.06802721088435375,
+      "Joanna Krupa": 0.06802721088435378,
+      "Kathy Ireland": 0.06122448979591832,
+      "Tom DeLay": 0.06122448979591832,
+      "Aaron Carter": 0.09183673469387756,
+      "Mya": 0.09183673469387756,
+      "Donny Osmond": 0.08503401360544217,
+      "Kelly Osbourne": 0.06462585034013606
+    },
+    "3": {
+      "Debi Mazar": 0.052971576227390016,
+      "Melissa Joan Hart": 0.07364341085271321,
+      "Mark Dacascos": 0.06976744186046505,
+      "Chuck Liddell": 0.06589147286821725,
+      "Natalie Coughlin": 0.10077519379844961,
+      "Louie Vito": 0.07751937984496132,
+      "Michael Irvin": 0.06459948320413433,
+      "Joanna Krupa": 0.08914728682170542,
+      "Tom DeLay": 0.06072351421188621,
+      "Aaron Carter": 0.08139534883720934,
+      "Mya": 0.10465116279069764,
+      "Donny Osmond": 0.08139534883720934,
+      "Kelly Osbourne": 0.07751937984496121
+    },
+    "4": {
+      "Melissa Joan Hart": 0.11570247933884294,
+      "Mark Dacascos": 0.09090909090909086,
+      "Chuck Liddell": 0.06473829201101927,
+      "Natalie Coughlin": 0.09917355371900827,
+      "Louie Vito": 0.06887052341597805,
+      "Michael Irvin": 0.06887052341597803,
+      "Joanna Krupa": 0.10743801652892562,
+      "Aaron Carter": 0.07438016528925617,
+      "Mya": 0.11570247933884296,
+      "Donny Osmond": 0.09917355371900832,
+      "Kelly Osbourne": 0.0950413223140496
+    },
+    "5": {
+      "Melissa Joan Hart": 0.09504132231404959,
+      "Mark Dacascos": 0.10743801652892572,
+      "Natalie Coughlin": 0.08677685950413218,
+      "Louie Vito": 0.09090909090909095,
+      "Michael Irvin": 0.09090909090909086,
+      "Joanna Krupa": 0.09917355371900825,
+      "Aaron Carter": 0.09917355371900823,
+      "Mya": 0.1115702479338843,
+      "Donny Osmond": 0.11983471074380177,
+      "Kelly Osbourne": 0.0991735537190082
+    },
+    "6": {
+      "Melissa Joan Hart": 0.08717940433896376,
+      "Mark Dacascos": 0.12307734911390078,
+      "Louie Vito": 0.08717901972224779,
+      "Michael Irvin": 0.09487212327529854,
+      "Joanna Krupa": 0.1384616331364223,
+      "Aaron Carter": 0.12692274704027823,
+      "Mya": 0.12692351627371018,
+      "Donny Osmond": 0.11923079733737534,
+      "Kelly Osbourne": 0.09615340976180309
+    },
+    "7": {
+      "Mark Dacascos": 0.12250712250712248,
+      "Michael Irvin": 0.1339031339031339,
+      "Joanna Krupa": 0.15669515669515668,
+      "Aaron Carter": 0.150997150997151,
+      "Mya": 0.13960113960113962,
+      "Donny Osmond": 0.1481481481481482,
+      "Kelly Osbourne": 0.1481481481481482
+    },
+    "8": {
+      "Joanna Krupa": 0.1984732824427481,
+      "Aaron Carter": 0.19083969465648856,
+      "Mya": 0.22519083969465647,
+      "Donny Osmond": 0.19083969465648856,
+      "Kelly Osbourne": 0.19465648854961834
+    },
+    "9": {
+      "Joanna Krupa": 0.2312501699224591,
+      "Mya": 0.27187499707030244,
+      "Donny Osmond": 0.2531258701201785,
+      "Kelly Osbourne": 0.2437489628870599
+    },
+    "10": {
+      "Mya": 0.34320309320309317,
+      "Donny Osmond": 0.35127769056340485,
+      "Kelly Osbourne": 0.305519216233502
+    }
+  },
+  "10": {
+    "1": {
+      "Aiden Turner": 0.07177033492822966,
+      "Shannen Doherty": 0.08612440191387562,
+      "Niecy Nash": 0.08612440191387559,
+      "Buzz Aldrin": 0.06698564593301427,
+      "Chad Ochocinco": 0.08612440191387559,
+      "Evan Lysacek": 0.11004784688995216,
+      "Pamela Anderson": 0.10047846889952153,
+      "Nicole Scherzinger": 0.11961722488038277,
+      "Erin Andrews": 0.10047846889952153,
+      "Kate Gosselin": 0.076555023923445,
+      "Jake Pavelka": 0.09569377990430622
+    },
+    "2": {
+      "Aiden Turner": 0.0863636363636363,
+      "Shannen Doherty": 0.051515151515151465,
+      "Niecy Nash": 0.0954545454545454,
+      "Buzz Aldrin": 0.08787878787878789,
+      "Chad Ochocinco": 0.07272727272727271,
+      "Evan Lysacek": 0.10909090909090909,
+      "Pamela Anderson": 0.10000000000000002,
+      "Nicole Scherzinger": 0.12727272727272737,
+      "Erin Andrews": 0.10454545454545457,
+      "Kate Gosselin": 0.07424242424242418,
+      "Jake Pavelka": 0.09090909090909093
+    },
+    "3": {
+      "Aiden Turner": 0.09852216748768473,
+      "Niecy Nash": 0.10344827586206896,
+      "Buzz Aldrin": 0.06403940886699508,
+      "Chad Ochocinco": 0.09852216748768475,
+      "Evan Lysacek": 0.12807881773399016,
+      "Pamela Anderson": 0.10344827586206898,
+      "Nicole Scherzinger": 0.11330049261083744,
+      "Erin Andrews": 0.11330049261083744,
+      "Kate Gosselin": 0.07389162561576354,
+      "Jake Pavelka": 0.10344827586206895
+    },
+    "4": {
+      "Aiden Turner": 0.0862533692722372,
+      "Niecy Nash": 0.09703504043126684,
+      "Chad Ochocinco": 0.11859838274932616,
+      "Evan Lysacek": 0.1401617250673854,
+      "Pamela Anderson": 0.12668463611859826,
+      "Nicole Scherzinger": 0.13477088948787064,
+      "Erin Andrews": 0.10512129380053908,
+      "Kate Gosselin": 0.08894878706199472,
+      "Jake Pavelka": 0.10242587601078167
+    },
+    "5": {
+      "Niecy Nash": 0.10404624277456648,
+      "Chad Ochocinco": 0.10404624277456648,
+      "Evan Lysacek": 0.15606936416184983,
+      "Pamela Anderson": 0.12138728323699421,
+      "Nicole Scherzinger": 0.1676300578034682,
+      "Erin Andrews": 0.12716763005780327,
+      "Kate Gosselin": 0.08670520231213873,
+      "Jake Pavelka": 0.13294797687861284
+    },
+    "6": {
+      "Niecy Nash": 0.12440137359311733,
+      "Chad Ochocinco": 0.148325377166335,
+      "Evan Lysacek": 0.12918703555466457,
+      "Pamela Anderson": 0.14354019367528978,
+      "Nicole Scherzinger": 0.17224890226905065,
+      "Erin Andrews": 0.1626799706984664,
+      "Jake Pavelka": 0.11961714704307627
+    },
+    "7": {
+      "Niecy Nash": 0.16398713826366554,
+      "Chad Ochocinco": 0.16720257234726688,
+      "Evan Lysacek": 0.17363344051446947,
+      "Pamela Anderson": 0.15755627009646297,
+      "Nicole Scherzinger": 0.17363344051446947,
+      "Erin Andrews": 0.1639871382636656
+    },
+    "8": {
+      "Niecy Nash": 0.16996047430830039,
+      "Chad Ochocinco": 0.17786561264822134,
+      "Evan Lysacek": 0.20948616600790515,
+      "Nicole Scherzinger": 0.23320158102766797,
+      "Erin Andrews": 0.20948616600790515
+    },
+    "9": {
+      "Chad Ochocinco": 0.23008849557522124,
+      "Evan Lysacek": 0.261061946902655,
+      "Nicole Scherzinger": 0.2610619469026549,
+      "Erin Andrews": 0.2477876106194689
+    },
+    "10": {
+      "Evan Lysacek": 0.325268368450467,
+      "Nicole Scherzinger": 0.34811930389929624,
+      "Erin Andrews": 0.32661232765023673
+    }
+  },
+  "11": {
+    "1": {
+      "David Hasselhoff": 0.06607929515418516,
+      "Florence Henderson": 0.07929515418502203,
+      "Kyle Massey": 0.1013215859030837,
+      "Jennifer Grey": 0.10572687224669607,
+      "Rick Fox": 0.09691629955947147,
+      "Kurt Warner": 0.08370044052863433,
+      "Margaret Cho": 0.06607929515418502,
+      "Michael Bolton": 0.07048458149779736,
+      "Brandy": 0.10132158590308372,
+      "The Situation": 0.06607929515418491,
+      "Audrina Patridge": 0.08370044052863436,
+      "Bristol Palin": 0.07929515418502203
+    },
+    "2": {
+      "Florence Henderson": 0.08597285067873305,
+      "Kyle Massey": 0.09954751131221719,
+      "Jennifer Grey": 0.10859728506787335,
+      "Rick Fox": 0.09502262443438915,
+      "Kurt Warner": 0.09502262443438914,
+      "Margaret Cho": 0.08144796380090498,
+      "Michael Bolton": 0.05429864253393665,
+      "Brandy": 0.09502262443438907,
+      "The Situation": 0.08144796380090498,
+      "Audrina Patridge": 0.10407239819004517,
+      "Bristol Palin": 0.09954751131221719
+    },
+    "3": {
+      "Florence Henderson": 0.09049773755656108,
+      "Kyle Massey": 0.10407239819004516,
+      "Jennifer Grey": 0.1085972850678733,
+      "Rick Fox": 0.1085972850678733,
+      "Kurt Warner": 0.10407239819004525,
+      "Margaret Cho": 0.08144796380090502,
+      "Brandy": 0.1085972850678733,
+      "The Situation": 0.09049773755656108,
+      "Audrina Patridge": 0.1176470588235295,
+      "Bristol Palin": 0.08597285067873306
+    },
+    "4": {
+      "Florence Henderson": 0.09776536312849161,
+      "Kyle Massey": 0.11173184357541899,
+      "Jennifer Grey": 0.1564245810055866,
+      "Rick Fox": 0.10893854748603349,
+      "Kurt Warner": 0.0949720670391061,
+      "Brandy": 0.13407821229050282,
+      "The Situation": 0.0782122905027933,
+      "Audrina Patridge": 0.12849162011173187,
+      "Bristol Palin": 0.0893854748603352
+    },
+    "5": {
+      "Florence Henderson": 0.09890109890109891,
+      "Kyle Massey": 0.10989010989010989,
+      "Jennifer Grey": 0.13736263736263737,
+      "Rick Fox": 0.13186813186813187,
+      "Kurt Warner": 0.13186813186813187,
+      "Brandy": 0.14835164835164835,
+      "Audrina Patridge": 0.12637362637362637,
+      "Bristol Palin": 0.1153846153846154
+    },
+    "6": {
+      "Kyle Massey": 0.14492754323323798,
+      "Jennifer Grey": 0.14009709211577046,
+      "Rick Fox": 0.1449280263266591,
+      "Kurt Warner": 0.15458892856159412,
+      "Brandy": 0.17391314849856981,
+      "Audrina Patridge": 0.10628006954612883,
+      "Bristol Palin": 0.13526519171803963
+    },
+    "7": {
+      "Kyle Massey": 0.1606714628297362,
+      "Jennifer Grey": 0.1750599520383693,
+      "Rick Fox": 0.15587529976019185,
+      "Kurt Warner": 0.16786570743405277,
+      "Brandy": 0.1750599520383693,
+      "Bristol Palin": 0.16546762589928057
+    },
+    "8": {
+      "Kyle Massey": 0.21132075471698114,
+      "Jennifer Grey": 0.21509433962264152,
+      "Kurt Warner": 0.17735849056603778,
+      "Brandy": 0.21509433962264152,
+      "Bristol Palin": 0.18113207547169816
+    },
+    "9": {
+      "Kyle Massey": 0.2543859649122807,
+      "Jennifer Grey": 0.2631578947368421,
+      "Brandy": 0.2324561403508772,
+      "Bristol Palin": 0.25
+    },
+    "10": {
+      "Kyle Massey": 0.3293164561842318,
+      "Jennifer Grey": 0.3614466540883231,
+      "Bristol Palin": 0.3092368897274452
+    }
+  },
+  "12": {
+    "1": {
+      "Ralph Macchio": 0.11594202898550725,
+      "Chelsea Kane": 0.10144927536231892,
+      "Kirstie Alley": 0.1111111111111112,
+      "Hines Ward": 0.10144927536231892,
+      "Sugar Ray Leonard": 0.08212560386473426,
+      "Chris Jericho": 0.09178743961352658,
+      "Petra Nemcova": 0.08695652173913043,
+      "Mike Catherwood": 0.06280193236714976,
+      "Romeo": 0.09178743961352658,
+      "Wendy Williams": 0.06763285024154582,
+      "Kendra Wilkinson": 0.08695652173913043
+    },
+    "2": {
+      "Ralph Macchio": 0.09722222222222218,
+      "Chelsea Kane": 0.08333333333333331,
+      "Kirstie Alley": 0.09259259259259256,
+      "Hines Ward": 0.10648148148148157,
+      "Sugar Ray Leonard": 0.07870370370370366,
+      "Chris Jericho": 0.10648148148148148,
+      "Petra Nemcova": 0.08333333333333338,
+      "Mike Catherwood": 0.07870370370370366,
+      "Romeo": 0.10648148148148148,
+      "Wendy Williams": 0.07870370370370372,
+      "Kendra Wilkinson": 0.08796296296296295
+    },
+    "3": {
+      "Ralph Macchio": 0.09813084112149532,
+      "Chelsea Kane": 0.10747663551401888,
+      "Kirstie Alley": 0.09813084112149532,
+      "Hines Ward": 0.11682242990654207,
+      "Sugar Ray Leonard": 0.09345794392523366,
+      "Chris Jericho": 0.09813084112149534,
+      "Petra Nemcova": 0.11682242990654206,
+      "Romeo": 0.09345794392523364,
+      "Wendy Williams": 0.07009345794392519,
+      "Kendra Wilkinson": 0.10747663551401865
+    },
+    "4": {
+      "Ralph Macchio": 0.12135922330097076,
+      "Chelsea Kane": 0.1262135922330097,
+      "Kirstie Alley": 0.10679611650485436,
+      "Hines Ward": 0.12135922330097088,
+      "Sugar Ray Leonard": 0.08737864077669916,
+      "Chris Jericho": 0.11165048543689315,
+      "Petra Nemcova": 0.11165048543689321,
+      "Romeo": 0.11165048543689321,
+      "Kendra Wilkinson": 0.10194174757281566
+    },
+    "5": {
+      "Ralph Macchio": 0.1134020618556701,
+      "Chelsea Kane": 0.13402061855670103,
+      "Kirstie Alley": 0.11855670103092783,
+      "Hines Ward": 0.13917525773195874,
+      "Chris Jericho": 0.13402061855670103,
+      "Petra Nemcova": 0.1134020618556701,
+      "Romeo": 0.13402061855670103,
+      "Kendra Wilkinson": 0.1134020618556701
+    },
+    "6": {
+      "Ralph Macchio": 0.13333333333333333,
+      "Chelsea Kane": 0.15555555555555556,
+      "Kirstie Alley": 0.14444444444444443,
+      "Hines Ward": 0.15000000000000002,
+      "Chris Jericho": 0.12222222222222222,
+      "Romeo": 0.1555555555555556,
+      "Kendra Wilkinson": 0.1388888888888889
+    },
+    "7": {
+      "Ralph Macchio": 0.17506631299734748,
+      "Chelsea Kane": 0.16976127320954906,
+      "Kirstie Alley": 0.16091954022988506,
+      "Hines Ward": 0.17506631299734748,
+      "Romeo": 0.16091954022988506,
+      "Kendra Wilkinson": 0.15826702033598583
+    },
+    "8": {
+      "Ralph Macchio": 0.19999999999999996,
+      "Chelsea Kane": 0.21153846153846154,
+      "Kirstie Alley": 0.20384615384615384,
+      "Hines Ward": 0.2076923076923077,
+      "Romeo": 0.17692307692307688
+    },
+    "9": {
+      "Ralph Macchio": 0.20425531914893616,
+      "Chelsea Kane": 0.31063829787234043,
+      "Kirstie Alley": 0.2297872340425532,
+      "Hines Ward": 0.25531914893617025
+    },
+    "10": {
+      "Chelsea Kane": 0.33969480071129965,
+      "Kirstie Alley": 0.3206103985774007,
+      "Hines Ward": 0.33969480071129965
+    }
+  },
+  "13": {
+    "1": {
+      "Elisabetta Canalis": 0.06912442396313356,
+      "David Arquette": 0.08294930875576037,
+      "Ricki Lake": 0.09216589861751152,
+      "J.R. Martinez": 0.10138248847926268,
+      "Metta World Peace (Ron)": 0.06451612903225823,
+      "Hope Solo": 0.09677419354838707,
+      "Chynna Phillips": 0.10138248847926268,
+      "Kristin Cavallari": 0.08755760368663594,
+      "Carson Kressley": 0.07834101382488479,
+      "Chaz Bono": 0.07834101382488468,
+      "Nancy Grace": 0.07373271889400922,
+      "Rob Kardashian": 0.0737327188940093
+    },
+    "2": {
+      "Elisabetta Canalis": 0.07174887892376677,
+      "David Arquette": 0.08520179372197308,
+      "Ricki Lake": 0.10313901345291454,
+      "J.R. Martinez": 0.09865470852017941,
+      "Hope Solo": 0.08520179372197309,
+      "Chynna Phillips": 0.09417040358744394,
+      "Kristin Cavallari": 0.09865470852017935,
+      "Carson Kressley": 0.08520179372197315,
+      "Chaz Bono": 0.08968609865470853,
+      "Nancy Grace": 0.094170403587444,
+      "Rob Kardashian": 0.09417040358744394
+    },
+    "3": {
+      "David Arquette": 0.10126582278481013,
+      "Ricki Lake": 0.11392405063291121,
+      "J.R. Martinez": 0.10970464135021098,
+      "Hope Solo": 0.10126582278481011,
+      "Chynna Phillips": 0.10970464135021098,
+      "Kristin Cavallari": 0.07594936708860767,
+      "Carson Kressley": 0.0970464135021097,
+      "Chaz Bono": 0.10126582278481022,
+      "Nancy Grace": 0.08860759493670889,
+      "Rob Kardashian": 0.10126582278481011
+    },
+    "4": {
+      "David Arquette": 0.11004784688995214,
+      "Ricki Lake": 0.13875598086124402,
+      "J.R. Martinez": 0.12440191387559808,
+      "Hope Solo": 0.1148325358851674,
+      "Chynna Phillips": 0.09569377990430625,
+      "Carson Kressley": 0.10047846889952147,
+      "Chaz Bono": 0.10047846889952157,
+      "Nancy Grace": 0.10047846889952153,
+      "Rob Kardashian": 0.11483253588516747
+    },
+    "5": {
+      "David Arquette": 0.13297872340425532,
+      "Ricki Lake": 0.12765957446808518,
+      "J.R. Martinez": 0.14893617021276595,
+      "Hope Solo": 0.1276595744680851,
+      "Carson Kressley": 0.10106382978723404,
+      "Chaz Bono": 0.11170212765957444,
+      "Nancy Grace": 0.11702127659574468,
+      "Rob Kardashian": 0.13297872340425532
+    },
+    "6": {
+      "David Arquette": 0.13855421686746988,
+      "Ricki Lake": 0.1746987951807229,
+      "J.R. Martinez": 0.1746987951807229,
+      "Hope Solo": 0.12048192771084348,
+      "Chaz Bono": 0.1144578313253012,
+      "Nancy Grace": 0.14457831325301201,
+      "Rob Kardashian": 0.13253012048192764
+    },
+    "7": {
+      "David Arquette": 0.1501706484641638,
+      "Ricki Lake": 0.18088737201365188,
+      "J.R. Martinez": 0.16382252559726962,
+      "Hope Solo": 0.17064846416382254,
+      "Nancy Grace": 0.16040955631399315,
+      "Rob Kardashian": 0.17406143344709898
+    },
+    "8": {
+      "Ricki Lake": 0.20077220077220082,
+      "J.R. Martinez": 0.23166023166023167,
+      "Hope Solo": 0.20077220077220076,
+      "Nancy Grace": 0.16988416988416988,
+      "Rob Kardashian": 0.19691119691119685
+    },
+    "9": {
+      "Ricki Lake": 0.28270077088932866,
+      "J.R. Martinez": 0.2362879168266533,
+      "Hope Solo": 0.20675023945248716,
+      "Rob Kardashian": 0.2742610728315309
+    },
+    "10": {
+      "Ricki Lake": 0.33136133188796163,
+      "J.R. Martinez": 0.33333293885414844,
+      "Rob Kardashian": 0.33530572925789
+    }
+  },
+  "14": {
+    "1": {
+      "William Levy": 0.08888888888888893,
+      "Jack Wagner": 0.08518518518518518,
+      "Sherri Sheperd": 0.08518518518518518,
+      "Jaleel White": 0.09629629629629635,
+      "Roshon Fegan": 0.08518518518518531,
+      "Melissa Gilbert": 0.07407407407407404,
+      "Martina Navratilova": 0.07407407407407401,
+      "Donald Driver": 0.07777777777777772,
+      "Gavin DeGraw": 0.07407407407407407,
+      "Gladys Knight": 0.08518518518518518,
+      "Katherine Jenkins": 0.0962962962962963,
+      "Maria Menounos": 0.07777777777777778
+    },
+    "2": {
+      "William Levy": 0.09293680297397769,
+      "Jack Wagner": 0.07806691449814127,
+      "Sherri Sheperd": 0.08550185873605948,
+      "Jaleel White": 0.08178438661710044,
+      "Roshon Fegan": 0.09665427509293686,
+      "Melissa Gilbert": 0.07434944237918217,
+      "Martina Navratilova": 0.06319702602230483,
+      "Donald Driver": 0.08921933085501858,
+      "Gavin DeGraw": 0.07806691449814124,
+      "Gladys Knight": 0.07063197026022305,
+      "Katherine Jenkins": 0.09665427509293681,
+      "Maria Menounos": 0.09293680297397769
+    },
+    "3": {
+      "William Levy": 0.09999999999999985,
+      "Jack Wagner": 0.08571428571428572,
+      "Sherri Sheperd": 0.08571428571428573,
+      "Jaleel White": 0.08928571428571432,
+      "Roshon Fegan": 0.08928571428571429,
+      "Melissa Gilbert": 0.08571428571428572,
+      "Donald Driver": 0.09285714285714286,
+      "Gavin DeGraw": 0.08571428571428573,
+      "Gladys Knight": 0.08571428571428572,
+      "Katherine Jenkins": 0.10357142857142855,
+      "Maria Menounos": 0.09642857142857143
+    },
+    "4": {
+      "William Levy": 0.0944206008583691,
+      "Sherri Sheperd": 0.08583690987124458,
+      "Jaleel White": 0.0944206008583691,
+      "Roshon Fegan": 0.11158798283261805,
+      "Melissa Gilbert": 0.0944206008583691,
+      "Donald Driver": 0.11587982832618028,
+      "Gavin DeGraw": 0.09871244635193134,
+      "Gladys Knight": 0.09012875536480679,
+      "Katherine Jenkins": 0.10300429184549352,
+      "Maria Menounos": 0.11158798283261807
+    },
+    "5": {
+      "William Levy": 0.12946428571428573,
+      "Jaleel White": 0.10714285714285714,
+      "Roshon Fegan": 0.11607142857142858,
+      "Melissa Gilbert": 0.09375000000000003,
+      "Donald Driver": 0.1205357142857143,
+      "Gavin DeGraw": 0.08482142857142858,
+      "Gladys Knight": 0.09821428571428571,
+      "Katherine Jenkins": 0.12946428571428567,
+      "Maria Menounos": 0.12053571428571429
+    },
+    "6": {
+      "William Levy": 0.13953526230497526,
+      "Jaleel White": 0.1434104666175451,
+      "Roshon Fegan": 0.10852665104130102,
+      "Melissa Gilbert": 0.11627938525414612,
+      "Donald Driver": 0.13178291569008135,
+      "Gladys Knight": 0.09302350820331692,
+      "Katherine Jenkins": 0.15116281323243902,
+      "Maria Menounos": 0.1162789976561952
+    },
+    "7": {
+      "William Levy": 0.1444141689373297,
+      "Jaleel White": 0.12806539509536782,
+      "Roshon Fegan": 0.14168937329700274,
+      "Melissa Gilbert": 0.13896457765667572,
+      "Donald Driver": 0.1444141689373297,
+      "Katherine Jenkins": 0.14713896457765668,
+      "Maria Menounos": 0.1553133514986376
+    },
+    "8": {
+      "William Levy": 0.1743119266055046,
+      "Roshon Fegan": 0.16207951070336388,
+      "Melissa Gilbert": 0.1559633027522936,
+      "Donald Driver": 0.16819571865443425,
+      "Katherine Jenkins": 0.16819571865443425,
+      "Maria Menounos": 0.17125382262996938
+    },
+    "9": {
+      "William Levy": 0.25217391304347825,
+      "Donald Driver": 0.25072463768115943,
+      "Katherine Jenkins": 0.255072463768116,
+      "Maria Menounos": 0.24202898550724639
+    },
+    "10": {
+      "William Levy": 0.33208930162582334,
+      "Donald Driver": 0.3320893016258234,
+      "Katherine Jenkins": 0.3358213967483533
+    }
+  },
+  "15": {
+    "1": {
+      "Gilles Marini": 0.08679927667269435,
+      "Sabrina Bryan": 0.081374321880651,
+      "Kirstie Alley": 0.06871609403254973,
+      "Kelly Monaco": 0.07775768535262192,
+      "Apolo Anton Ohno": 0.07956600361663653,
+      "Emmitt Smith": 0.08860759493670892,
+      "Shawn Johnson": 0.07956600361663657,
+      "Pamela Anderson": 0.06148282097649186,
+      "Helio Castroneves": 0.07775768535262206,
+      "Joey Fatone": 0.07414104882459313,
+      "Drew Lachey": 0.07775768535262206,
+      "Bristol Palin": 0.07052441229656425,
+      "Melissa Rycroft": 0.0759493670886076
+    },
+    "2": {
+      "Gilles Marini": 0.092391304347826,
+      "Sabrina Bryan": 0.09420289855072464,
+      "Kirstie Alley": 0.07608695652173914,
+      "Kelly Monaco": 0.07971014492753625,
+      "Apolo Anton Ohno": 0.08876811594202916,
+      "Emmitt Smith": 0.08152173913043481,
+      "Shawn Johnson": 0.09057971014492754,
+      "Helio Castroneves": 0.08333333333333333,
+      "Joey Fatone": 0.06521739130434781,
+      "Drew Lachey": 0.08152173913043476,
+      "Bristol Palin": 0.0815217391304347,
+      "Melissa Rycroft": 0.08514492753623189
+    },
+    "3": {
+      "Gilles Marini": 0.09172661870503594,
+      "Sabrina Bryan": 0.09172661870503597,
+      "Kirstie Alley": 0.08633093525179857,
+      "Kelly Monaco": 0.09712230215827335,
+      "Apolo Anton Ohno": 0.09172661870503589,
+      "Emmitt Smith": 0.08992805755395683,
+      "Shawn Johnson": 0.09532374100719425,
+      "Helio Castroneves": 0.08093525179856116,
+      "Drew Lachey": 0.08633093525179857,
+      "Bristol Palin": 0.09172661870503597,
+      "Melissa Rycroft": 0.09712230215827346
+    },
+    "4": {
+      "Gilles Marini": 0.12286158631415241,
+      "Sabrina Bryan": 0.1104199066874028,
+      "Kirstie Alley": 0.09953343701399672,
+      "Kelly Monaco": 0.11664074650077783,
+      "Apolo Anton Ohno": 0.10730948678071538,
+      "Emmitt Smith": 0.1119751166407465,
+      "Shawn Johnson": 0.12286158631415241,
+      "Bristol Palin": 0.09331259720062199,
+      "Melissa Rycroft": 0.1150855365474339
+    },
+    "5": {
+      "Gilles Marini": 0.12710911136107986,
+      "Sabrina Bryan": 0.13160854893138366,
+      "Kirstie Alley": 0.11811023622047244,
+      "Kelly Monaco": 0.11586051743532058,
+      "Apolo Anton Ohno": 0.12710911136107986,
+      "Emmitt Smith": 0.1259842519685039,
+      "Shawn Johnson": 0.1271091113610799,
+      "Melissa Rycroft": 0.12710911136107986
+    },
+    "6": {
+      "Gilles Marini": 0.12345132743362833,
+      "Sabrina Bryan": 0.11238938053097344,
+      "Kirstie Alley": 0.12345132743362833,
+      "Kelly Monaco": 0.12566371681415928,
+      "Apolo Anton Ohno": 0.13274336283185842,
+      "Emmitt Smith": 0.12787610619469025,
+      "Shawn Johnson": 0.12389380530973451,
+      "Melissa Rycroft": 0.13053097345132744
+    },
+    "7": {
+      "Gilles Marini": 0.13842932603524055,
+      "Kirstie Alley": 0.11570240079206841,
+      "Kelly Monaco": 0.14876076087823395,
+      "Apolo Anton Ohno": 0.13636403080504778,
+      "Emmitt Smith": 0.1425619826173051,
+      "Shawn Johnson": 0.15702442114501985,
+      "Melissa Rycroft": 0.16115707772708432
+    },
+    "8": {
+      "Gilles Marini": 0.13892777940030665,
+      "Kirstie Alley": 0.127962327890669,
+      "Kelly Monaco": 0.1436669018497163,
+      "Apolo Anton Ohno": 0.1469193195013584,
+      "Emmitt Smith": 0.14580378908998212,
+      "Shawn Johnson": 0.1461759671024746,
+      "Melissa Rycroft": 0.15054391516549295
+    },
+    "9": {
+      "Kelly Monaco": 0.202915325351756,
+      "Apolo Anton Ohno": 0.19227700484469107,
+      "Emmitt Smith": 0.19148976912716836,
+      "Shawn Johnson": 0.2092203033056099,
+      "Melissa Rycroft": 0.20409759737077457
+    },
+    "10": {
+      "Kelly Monaco": 0.3331212530739241,
+      "Shawn Johnson": 0.3312148193751338,
+      "Melissa Rycroft": 0.33566392755094215
+    }
+  },
+  "16": {
+    "1": {
+      "Ingo Rademacher": 0.08733624454148471,
+      "Zendaya": 0.10480349344978165,
+      "Dorothy Hamill": 0.09170305676855896,
+      "Victor Ortiz": 0.0786026200873362,
+      "Alexandra Raisman": 0.09170305676855894,
+      "Jacoby Jones": 0.0873362445414847,
+      "D. L. Hughley": 0.05240174672489098,
+      "Andy Dick": 0.07423580786026207,
+      "Wynonna Judd": 0.07860262008733625,
+      "Kellie Pickler": 0.09170305676855896,
+      "Lisa Vanderpump": 0.07860262008733625,
+      "Sean Lowe": 0.08296943231441048
+    },
+    "2": {
+      "Ingo Rademacher": 0.08196721311475409,
+      "Zendaya": 0.10655737704918032,
+      "Dorothy Hamill": 0.06147540983606557,
+      "Victor Ortiz": 0.07377049180327865,
+      "Alexandra Raisman": 0.0983606557377049,
+      "Jacoby Jones": 0.09426229508196728,
+      "D. L. Hughley": 0.06557377049180337,
+      "Andy Dick": 0.08196721311475409,
+      "Wynonna Judd": 0.07377049180327869,
+      "Kellie Pickler": 0.10655737704918032,
+      "Lisa Vanderpump": 0.07377049180327869,
+      "Sean Lowe": 0.08196721311475409
+    },
+    "3": {
+      "Ingo Rademacher": 0.08936185423294339,
+      "Zendaya": 0.11063763512788959,
+      "Victor Ortiz": 0.0978725070170332,
+      "Alexandra Raisman": 0.09787250701703323,
+      "Jacoby Jones": 0.11063763512788959,
+      "D. L. Hughley": 0.06808522227271871,
+      "Andy Dick": 0.07659587505680861,
+      "Wynonna Judd": 0.06382989588067375,
+      "Kellie Pickler": 0.10638315980112308,
+      "Lisa Vanderpump": 0.0893618542329434,
+      "Sean Lowe": 0.08936185423294338
+    },
+    "4": {
+      "Ingo Rademacher": 0.10267857142857142,
+      "Zendaya": 0.11607142857142858,
+      "Victor Ortiz": 0.08035714285714288,
+      "Alexandra Raisman": 0.1205357142857143,
+      "Jacoby Jones": 0.10714285714285714,
+      "D. L. Hughley": 0.09374999999999999,
+      "Andy Dick": 0.09375,
+      "Kellie Pickler": 0.11607142857142858,
+      "Lisa Vanderpump": 0.08035714285714288,
+      "Sean Lowe": 0.08928571428571426
+    },
+    "5": {
+      "Ingo Rademacher": 0.10047846889952153,
+      "Zendaya": 0.13875598086124402,
+      "Victor Ortiz": 0.10047846889952153,
+      "Alexandra Raisman": 0.11961722488038273,
+      "Jacoby Jones": 0.12440191387559807,
+      "D. L. Hughley": 0.08612440191387571,
+      "Andy Dick": 0.0861244019138756,
+      "Kellie Pickler": 0.12918660287081335,
+      "Sean Lowe": 0.11483253588516747
+    },
+    "6": {
+      "Ingo Rademacher": 0.1220159151193634,
+      "Zendaya": 0.1352785145888594,
+      "Victor Ortiz": 0.1061007957559682,
+      "Alexandra Raisman": 0.13793103448275862,
+      "Jacoby Jones": 0.11936339522546419,
+      "Andy Dick": 0.11405835543766576,
+      "Kellie Pickler": 0.14323607427055704,
+      "Sean Lowe": 0.12201591511936324
+    },
+    "7": {
+      "Ingo Rademacher": 0.1358695652173913,
+      "Zendaya": 0.16304347826086957,
+      "Alexandra Raisman": 0.17391304347826086,
+      "Jacoby Jones": 0.14673913043478254,
+      "Andy Dick": 0.09239130434782608,
+      "Kellie Pickler": 0.15760869565217395,
+      "Sean Lowe": 0.13043478260869573
+    },
+    "8": {
+      "Ingo Rademacher": 0.15434083601286175,
+      "Zendaya": 0.18649517684887462,
+      "Alexandra Raisman": 0.180064308681672,
+      "Jacoby Jones": 0.16720257234726688,
+      "Kellie Pickler": 0.17684887459807075,
+      "Sean Lowe": 0.13504823151125403
+    },
+    "9": {
+      "Ingo Rademacher": 0.18085106382978725,
+      "Zendaya": 0.1950354609929078,
+      "Alexandra Raisman": 0.20921985815602837,
+      "Jacoby Jones": 0.20921985815602837,
+      "Kellie Pickler": 0.20567375886524822
+    },
+    "10": {
+      "Zendaya": 0.256410475564509,
+      "Alexandra Raisman": 0.23931558915862322,
+      "Jacoby Jones": 0.24786345971235876,
+      "Kellie Pickler": 0.256410475564509
+    }
+  },
+  "17": {
+    "1": {
+      "Valerie Harper": 0.08203125,
+      "Brant Daugherty": 0.0859375,
+      "Elizabeth Berkley Lauren": 0.09375,
+      "Leah Remini": 0.08203125,
+      "Corbin Bleu": 0.09375,
+      "Amber Riley": 0.10546875,
+      "Keyshawn Johnson": 0.06640625,
+      "Bill Engvall": 0.0703125,
+      "Christina Milian": 0.0859375,
+      "Nicole \"Snooki\" Polizzi": 0.08984375,
+      "Jack Osbourne": 0.08984375,
+      "Bill Nye": 0.0546875
+    },
+    "2": {
+      "Valerie Harper": 0.07142857142857137,
+      "Brant Daugherty": 0.08646616541353383,
+      "Elizabeth Berkley Lauren": 0.09398496240601503,
+      "Leah Remini": 0.09022556390977443,
+      "Corbin Bleu": 0.09774436090225572,
+      "Amber Riley": 0.0902255639097744,
+      "Keyshawn Johnson": 0.06390977443609022,
+      "Bill Engvall": 0.07894736842105263,
+      "Christina Milian": 0.09398496240601509,
+      "Nicole \"Snooki\" Polizzi": 0.07518796992481191,
+      "Jack Osbourne": 0.09022556390977443,
+      "Bill Nye": 0.06766917293233082
+    },
+    "3": {
+      "Valerie Harper": 0.06274509803921573,
+      "Brant Daugherty": 0.10588235294117647,
+      "Elizabeth Berkley Lauren": 0.09803921568627448,
+      "Leah Remini": 0.09411764705882354,
+      "Corbin Bleu": 0.10196078431372549,
+      "Amber Riley": 0.09411764705882353,
+      "Bill Engvall": 0.09411764705882353,
+      "Christina Milian": 0.10196078431372545,
+      "Nicole \"Snooki\" Polizzi": 0.09803921568627451,
+      "Jack Osbourne": 0.08627450980392161,
+      "Bill Nye": 0.06274509803921569
+    },
+    "4": {
+      "Valerie Harper": 0.0759493670886076,
+      "Brant Daugherty": 0.08860759493670889,
+      "Elizabeth Berkley Lauren": 0.11392405063291139,
+      "Leah Remini": 0.10126582278481011,
+      "Corbin Bleu": 0.11392405063291139,
+      "Amber Riley": 0.11392405063291144,
+      "Bill Engvall": 0.08860759493670886,
+      "Christina Milian": 0.10126582278481013,
+      "Nicole \"Snooki\" Polizzi": 0.10126582278481006,
+      "Jack Osbourne": 0.10126582278481017
+    },
+    "5": {
+      "Brant Daugherty": 0.1148936170212766,
+      "Elizabeth Berkley Lauren": 0.11063829787234042,
+      "Leah Remini": 0.11631205673758868,
+      "Corbin Bleu": 0.11914893617021266,
+      "Amber Riley": 0.11063829787234031,
+      "Bill Engvall": 0.1078014184397163,
+      "Christina Milian": 0.09078014184397165,
+      "Nicole \"Snooki\" Polizzi": 0.1148936170212766,
+      "Jack Osbourne": 0.1148936170212766
+    },
+    "6": {
+      "Brant Daugherty": 0.13419959895965008,
+      "Elizabeth Berkley Lauren": 0.13852775247706486,
+      "Leah Remini": 0.12121210809388085,
+      "Corbin Bleu": 0.11688308877260181,
+      "Amber Riley": 0.138528185378997,
+      "Bill Engvall": 0.10389603080876472,
+      "Nicole \"Snooki\" Polizzi": 0.12987057963837104,
+      "Jack Osbourne": 0.1168826558706697
+    },
+    "7": {
+      "Brant Daugherty": 0.12866817155756208,
+      "Elizabeth Berkley Lauren": 0.12189616252821671,
+      "Leah Remini": 0.11963882618510158,
+      "Corbin Bleu": 0.13318284424379231,
+      "Amber Riley": 0.13318284424379231,
+      "Bill Engvall": 0.12189616252821672,
+      "Nicole \"Snooki\" Polizzi": 0.11286681715575622,
+      "Jack Osbourne": 0.12866817155756208
+    },
+    "8": {
+      "Brant Daugherty": 0.12326388888888887,
+      "Elizabeth Berkley Lauren": 0.13368055555555552,
+      "Leah Remini": 0.14583333333333334,
+      "Corbin Bleu": 0.15625,
+      "Amber Riley": 0.14583333333333334,
+      "Bill Engvall": 0.13888888888888887,
+      "Jack Osbourne": 0.15625
+    },
+    "9": {
+      "Elizabeth Berkley Lauren": 0.1333333333333333,
+      "Leah Remini": 0.17142857142857143,
+      "Corbin Bleu": 0.18412698412698414,
+      "Amber Riley": 0.1619047619047619,
+      "Bill Engvall": 0.17777777777777776,
+      "Jack Osbourne": 0.17142857142857143
+    },
+    "10": {
+      "Leah Remini": 0.17142857142857146,
+      "Corbin Bleu": 0.21428571428571427,
+      "Amber Riley": 0.2257142857142857,
+      "Bill Engvall": 0.18571428571428575,
+      "Jack Osbourne": 0.20285714285714285
+    },
+    "11": {
+      "Corbin Bleu": 0.25909655421775135,
+      "Amber Riley": 0.27365383574062396,
+      "Bill Engvall": 0.22270771724567986,
+      "Jack Osbourne": 0.24454189279594485
+    }
+  },
+  "18": {
+    "1": {
+      "Billy Dee Williams": 0.05725190839694659,
+      "Danica McKellar": 0.0916030534351145,
+      "James Maslow": 0.08015267175572519,
+      "Candace Cameron Bure": 0.09541984732824425,
+      "Sean Avery": 0.07633587786259542,
+      "Diana Nyad": 0.0687022900763359,
+      "Charlie White": 0.10305343511450384,
+      "Amy Purdy": 0.0916030534351145,
+      "Meryl Davis": 0.0916030534351145,
+      "Drew Carey": 0.08015267175572519,
+      "Cody Simpson": 0.08396946564885496,
+      "NeNe Leakes": 0.08015267175572519
+    },
+    "2": {
+      "Billy Dee Williams": 0.08606557377049168,
+      "Danica McKellar": 0.09836065573770492,
+      "James Maslow": 0.10245901639344268,
+      "Candace Cameron Bure": 0.08606557377049184,
+      "Sean Avery": 0.06147540983606553,
+      "Charlie White": 0.10245901639344263,
+      "Amy Purdy": 0.09836065573770492,
+      "Meryl Davis": 0.10245901639344263,
+      "Drew Carey": 0.08606557377049179,
+      "Cody Simpson": 0.09016393442622955,
+      "NeNe Leakes": 0.08606557377049179
+    },
+    "3": {
+      "Danica McKellar": 0.1157556270096463,
+      "James Maslow": 0.11575562700964634,
+      "Candace Cameron Bure": 0.10289389067524116,
+      "Charlie White": 0.11575562700964626,
+      "Amy Purdy": 0.1157556270096463,
+      "Meryl Davis": 0.12540192926045016,
+      "Drew Carey": 0.0964630225080387,
+      "Cody Simpson": 0.11254019292604503,
+      "NeNe Leakes": 0.09967845659163987
+    },
+    "4": {
+      "Danica McKellar": 0.10774410774410774,
+      "James Maslow": 0.11784511784511784,
+      "Candace Cameron Bure": 0.09427609427609428,
+      "Charlie White": 0.11111111111111113,
+      "Amy Purdy": 0.11447811447811448,
+      "Meryl Davis": 0.13131313131313133,
+      "Drew Carey": 0.11111111111111119,
+      "Cody Simpson": 0.10437710437710435,
+      "NeNe Leakes": 0.10774410774410774
+    },
+    "5": {
+      "Danica McKellar": 0.12111801242236025,
+      "James Maslow": 0.12422360248447205,
+      "Candace Cameron Bure": 0.10869565217391303,
+      "Charlie White": 0.11490683229813668,
+      "Amy Purdy": 0.1149068322981366,
+      "Meryl Davis": 0.1118012422360249,
+      "Drew Carey": 0.10559006211180116,
+      "Cody Simpson": 0.08695652173913043,
+      "NeNe Leakes": 0.11180124223602486
+    },
+    "6": {
+      "Danica McKellar": 0.12765957446808512,
+      "James Maslow": 0.12411347517730496,
+      "Candace Cameron Bure": 0.11347517730496454,
+      "Charlie White": 0.1276595744680851,
+      "Amy Purdy": 0.1347517730496454,
+      "Meryl Davis": 0.14184397163120568,
+      "Drew Carey": 0.11347517730496454,
+      "NeNe Leakes": 0.11702127659574468
+    },
+    "7": {
+      "Danica McKellar": 0.14229249011857706,
+      "James Maslow": 0.13833992094861663,
+      "Candace Cameron Bure": 0.14624505928853757,
+      "Charlie White": 0.1403162055335967,
+      "Amy Purdy": 0.14822134387351776,
+      "Meryl Davis": 0.15415019762845844,
+      "NeNe Leakes": 0.13043478260869573
+    },
+    "8": {
+      "Danica McKellar": 0.1548672566371681,
+      "James Maslow": 0.163716814159292,
+      "Candace Cameron Bure": 0.163716814159292,
+      "Charlie White": 0.17699115044247787,
+      "Amy Purdy": 0.17699115044247787,
+      "Meryl Davis": 0.163716814159292
+    },
+    "9": {
+      "James Maslow": 0.19895287958115182,
+      "Candace Cameron Bure": 0.19895287958115188,
+      "Charlie White": 0.18848167539267022,
+      "Amy Purdy": 0.20418848167539266,
+      "Meryl Davis": 0.2094240837696335
+    },
+    "10": {
+      "James Maslow": 0.22674296916969577,
+      "Candace Cameron Bure": 0.2529075649013138,
+      "Amy Purdy": 0.2587209505138384,
+      "Meryl Davis": 0.2616285154151521
+    }
+  },
+  "19": {
+    "1": {
+      "Antonio Sabato Jr.": 0.06720430107526887,
+      "Jonathan Bennett": 0.0806451612903226,
+      "Lea Thompson": 0.08602150537634409,
+      "Janel Parrish": 0.07795698924731181,
+      "Alfonso Ribeiro": 0.0967741935483871,
+      "Lolo Jones": 0.05376344086021493,
+      "Randy Couture": 0.08333333333333333,
+      "Tommy Chong": 0.07258064516129037,
+      "Betsey Johnson": 0.05913978494623643,
+      "Michael Waltrip": 0.0672043010752688,
+      "Tavis Smiley": 0.0779569892473118,
+      "Bethany Mota": 0.08602150537634412,
+      "Sadie Robertson": 0.0913978494623656
+    },
+    "2": {
+      "Antonio Sabato Jr.": 0.08563535911602219,
+      "Jonathan Bennett": 0.08287292817679558,
+      "Lea Thompson": 0.09668508287292818,
+      "Janel Parrish": 0.09392265193370165,
+      "Alfonso Ribeiro": 0.08839779005524853,
+      "Randy Couture": 0.0773480662983426,
+      "Tommy Chong": 0.07734806629834248,
+      "Betsey Johnson": 0.07734806629834254,
+      "Michael Waltrip": 0.07734806629834248,
+      "Tavis Smiley": 0.06629834254143654,
+      "Bethany Mota": 0.09116022099447514,
+      "Sadie Robertson": 0.0856353591160221
+    },
+    "3": {
+      "Antonio Sabato Jr.": 0.08215297450424934,
+      "Jonathan Bennett": 0.0906515580736544,
+      "Lea Thompson": 0.08781869688385262,
+      "Janel Parrish": 0.11331444759206795,
+      "Alfonso Ribeiro": 0.0906515580736544,
+      "Randy Couture": 0.07365439093484419,
+      "Tommy Chong": 0.09631728045325778,
+      "Betsey Johnson": 0.08215297450424923,
+      "Michael Waltrip": 0.07932011331444759,
+      "Bethany Mota": 0.11331444759206806,
+      "Sadie Robertson": 0.0906515580736544
+    },
+    "4": {
+      "Antonio Sabato Jr.": 0.09062500000000001,
+      "Jonathan Bennett": 0.08749999999999998,
+      "Lea Thompson": 0.12187500000000001,
+      "Janel Parrish": 0.1125000000000001,
+      "Alfonso Ribeiro": 0.125,
+      "Tommy Chong": 0.08749999999999997,
+      "Betsey Johnson": 0.07187499999999998,
+      "Michael Waltrip": 0.08437499999999998,
+      "Bethany Mota": 0.10312500000000008,
+      "Sadie Robertson": 0.11562499999999981
+    },
+    "5": {
+      "Antonio Sabato Jr.": 0.10606060606060606,
+      "Jonathan Bennett": 0.09090909090909083,
+      "Lea Thompson": 0.12878787878787878,
+      "Janel Parrish": 0.125,
+      "Alfonso Ribeiro": 0.12878787878787878,
+      "Tommy Chong": 0.08712121212121213,
+      "Michael Waltrip": 0.0757575757575758,
+      "Bethany Mota": 0.12121212121212122,
+      "Sadie Robertson": 0.13636363636363635
+    },
+    "6": {
+      "Antonio Sabato Jr.": 0.10466439135381114,
+      "Jonathan Bennett": 0.09101251422070533,
+      "Lea Thompson": 0.10921501706484643,
+      "Janel Parrish": 0.11262798634812293,
+      "Alfonso Ribeiro": 0.13310580204778155,
+      "Tommy Chong": 0.10466439135381117,
+      "Michael Waltrip": 0.10238907849829351,
+      "Bethany Mota": 0.12286689419795227,
+      "Sadie Robertson": 0.11945392491467577
+    },
+    "7": {
+      "Antonio Sabato Jr.": 0.10831721470019341,
+      "Lea Thompson": 0.13539651837524178,
+      "Janel Parrish": 0.12959381044487428,
+      "Alfonso Ribeiro": 0.13152804642166344,
+      "Tommy Chong": 0.11605415860735009,
+      "Michael Waltrip": 0.11411992263056091,
+      "Bethany Mota": 0.1450676982591876,
+      "Sadie Robertson": 0.11992263056092843
+    },
+    "8": {
+      "Lea Thompson": 0.12903225806451613,
+      "Janel Parrish": 0.17338709677419356,
+      "Alfonso Ribeiro": 0.16532258064516128,
+      "Tommy Chong": 0.11693548387096775,
+      "Michael Waltrip": 0.10080645161290322,
+      "Bethany Mota": 0.16129032258064518,
+      "Sadie Robertson": 0.15322580645161288
+    },
+    "9": {
+      "Lea Thompson": 0.13317757009345793,
+      "Janel Parrish": 0.17990654205607476,
+      "Alfonso Ribeiro": 0.17990654205607476,
+      "Tommy Chong": 0.16355140186915887,
+      "Bethany Mota": 0.17289719626168223,
+      "Sadie Robertson": 0.1705607476635514
+    },
+    "10": {
+      "Janel Parrish": 0.2136986301369863,
+      "Alfonso Ribeiro": 0.2054794520547945,
+      "Tommy Chong": 0.16986301369863013,
+      "Bethany Mota": 0.20821917808219187,
+      "Sadie Robertson": 0.20273972602739726
+    },
+    "11": {
+      "Janel Parrish": 0.24946620355267282,
+      "Alfonso Ribeiro": 0.2558640849980489,
+      "Bethany Mota": 0.24307088074814653,
+      "Sadie Robertson": 0.25159883070113176
+    }
+  },
+  "20": {
+    "1": {
+      "Suzanne Somers": 0.07861635220125786,
+      "Willow Shields": 0.07861635220125786,
+      "Riker Lynch": 0.09748427672955975,
+      "Rumer Willis": 0.10062893081761001,
+      "Nastia Liukin": 0.09433962264150941,
+      "Michael Sam": 0.08176100628930819,
+      "Robert Herjavec": 0.08805031446540898,
+      "Charlotte McKinney": 0.0691823899371069,
+      "Noah Galloway": 0.08176100628930817,
+      "Redfoo": 0.06918238993710692,
+      "Patti LaBelle": 0.07861635220125786,
+      "Chris Soules": 0.08176100628930817
+    },
+    "2": {
+      "Suzanne Somers": 0.08069164265129682,
+      "Willow Shields": 0.09221902017291066,
+      "Riker Lynch": 0.09221902017291066,
+      "Rumer Willis": 0.0922190201729106,
+      "Nastia Liukin": 0.0979827089337177,
+      "Michael Sam": 0.08069164265129679,
+      "Robert Herjavec": 0.08069164265129683,
+      "Charlotte McKinney": 0.07492795389048991,
+      "Noah Galloway": 0.07780979827089342,
+      "Redfoo": 0.06051873198847267,
+      "Patti LaBelle": 0.08069164265129683,
+      "Chris Soules": 0.08933717579250722
+    },
+    "3": {
+      "Suzanne Somers": 0.07987220447284346,
+      "Willow Shields": 0.10223642172523961,
+      "Riker Lynch": 0.1086261980830669,
+      "Rumer Willis": 0.10543130990415348,
+      "Nastia Liukin": 0.10862619808306709,
+      "Michael Sam": 0.07667731629392968,
+      "Robert Herjavec": 0.0926517571884984,
+      "Charlotte McKinney": 0.07028753993610223,
+      "Noah Galloway": 0.09584664536741214,
+      "Patti LaBelle": 0.07028753993610223,
+      "Chris Soules": 0.08945686900958466
+    },
+    "4": {
+      "Suzanne Somers": 0.08820512820512821,
+      "Willow Shields": 0.12000000000000009,
+      "Riker Lynch": 0.1046153846153846,
+      "Rumer Willis": 0.10769230769230774,
+      "Nastia Liukin": 0.11076923076923077,
+      "Michael Sam": 0.08205128205128194,
+      "Robert Herjavec": 0.10461538461538464,
+      "Noah Galloway": 0.09846153846153845,
+      "Patti LaBelle": 0.09230769230769241,
+      "Chris Soules": 0.09128205128205115
+    },
+    "5": {
+      "Suzanne Somers": 0.0848056537102473,
+      "Willow Shields": 0.12014134275618374,
+      "Riker Lynch": 0.13427561837455831,
+      "Rumer Willis": 0.13780918727915206,
+      "Nastia Liukin": 0.13427561837455834,
+      "Robert Herjavec": 0.0989399293286218,
+      "Noah Galloway": 0.0989399293286219,
+      "Patti LaBelle": 0.09540636042402828,
+      "Chris Soules": 0.09540636042402827
+    },
+    "6": {
+      "Willow Shields": 0.12897526501766785,
+      "Riker Lynch": 0.13427561837455831,
+      "Rumer Willis": 0.1254416961130742,
+      "Nastia Liukin": 0.12897526501766785,
+      "Robert Herjavec": 0.12014134275618371,
+      "Noah Galloway": 0.12014134275618374,
+      "Patti LaBelle": 0.11837455830388689,
+      "Chris Soules": 0.12367491166077739
+    },
+    "7": {
+      "Willow Shields": 0.11154855643044623,
+      "Riker Lynch": 0.14566929133858267,
+      "Rumer Willis": 0.14566929133858267,
+      "Nastia Liukin": 0.16141732283464566,
+      "Robert Herjavec": 0.1430446194225722,
+      "Noah Galloway": 0.14960629921259844,
+      "Chris Soules": 0.1430446194225722
+    },
+    "8": {
+      "Riker Lynch": 0.18439716312056736,
+      "Rumer Willis": 0.18912529550827423,
+      "Nastia Liukin": 0.17966903073286053,
+      "Robert Herjavec": 0.14657210401891252,
+      "Noah Galloway": 0.15130023640661933,
+      "Chris Soules": 0.1489361702127659
+    },
+    "9": {
+      "Riker Lynch": 0.25477707006369427,
+      "Rumer Willis": 0.24840764331210194,
+      "Nastia Liukin": 0.24203821656050958,
+      "Noah Galloway": 0.2547770700636943
+    },
+    "10": {
+      "Riker Lynch": 0.3448275862068966,
+      "Rumer Willis": 0.3448275862068966,
+      "Noah Galloway": 0.3103448275862069
+    }
+  },
+  "21": {
+    "1": {
+      "Gary Busey": 0.06000000000000005,
+      "Alexa PenaVega": 0.08799999999999991,
+      "Carlos PenaVega": 0.092,
+      "Victor Espinoza": 0.06,
+      "Alek Skarlatos": 0.088,
+      "Chaka Khan": 0.052000000000000074,
+      "Andy Grammer": 0.084,
+      "Tamar Braxton": 0.09200000000000022,
+      "Nick Carter": 0.096,
+      "Hayes Grier": 0.084,
+      "Bindi Irwin": 0.09599999999999989,
+      "Kim Zolciak-Biermann": 0.048,
+      "Paula Deen": 0.05999999999999997
+    },
+    "2": {
+      "Gary Busey": 0.06839186691312385,
+      "Alexa PenaVega": 0.08502772643253234,
+      "Carlos PenaVega": 0.08317929759704269,
+      "Victor Espinoza": 0.06099815157116442,
+      "Alek Skarlatos": 0.08317929759704251,
+      "Chaka Khan": 0.05545286506469501,
+      "Andy Grammer": 0.0813308687615527,
+      "Tamar Braxton": 0.09057301293900184,
+      "Nick Carter": 0.08317929759704251,
+      "Hayes Grier": 0.08317929759704251,
+      "Bindi Irwin": 0.08872458410351201,
+      "Kim Zolciak-Biermann": 0.06839186691312395,
+      "Paula Deen": 0.06839186691312384
+    },
+    "3": {
+      "Gary Busey": 0.08196721311475405,
+      "Alexa PenaVega": 0.1180327868852459,
+      "Carlos PenaVega": 0.10163934426229508,
+      "Alek Skarlatos": 0.1081967213114754,
+      "Andy Grammer": 0.09508196721311493,
+      "Tamar Braxton": 0.10819672131147537,
+      "Nick Carter": 0.1180327868852459,
+      "Hayes Grier": 0.09836065573770492,
+      "Bindi Irwin": 0.10491803278688527,
+      "Paula Deen": 0.06557377049180328
+    },
+    "4": {
+      "Gary Busey": 0.06779661016949153,
+      "Alexa PenaVega": 0.08898305084745745,
+      "Carlos PenaVega": 0.1059322033898305,
+      "Alek Skarlatos": 0.10169491525423721,
+      "Andy Grammer": 0.09745762711864407,
+      "Tamar Braxton": 0.11440677966101706,
+      "Nick Carter": 0.11440677966101695,
+      "Hayes Grier": 0.11440677966101695,
+      "Bindi Irwin": 0.11864406779661033,
+      "Paula Deen": 0.07627118644067798
+    },
+    "5": {
+      "Alexa PenaVega": 0.132890365448505,
+      "Carlos PenaVega": 0.1295681063122923,
+      "Alek Skarlatos": 0.09634551495016612,
+      "Andy Grammer": 0.11960132890365455,
+      "Tamar Braxton": 0.09634551495016612,
+      "Nick Carter": 0.11627906976744186,
+      "Hayes Grier": 0.0996677740863787,
+      "Bindi Irwin": 0.12292358803986722,
+      "Paula Deen": 0.08637873754152824
+    },
+    "6": {
+      "Alexa PenaVega": 0.09584664536741214,
+      "Carlos PenaVega": 0.12140575079872204,
+      "Alek Skarlatos": 0.09584664536741214,
+      "Andy Grammer": 0.12779552715654954,
+      "Tamar Braxton": 0.1277955271565495,
+      "Nick Carter": 0.12460063897763576,
+      "Hayes Grier": 0.10223642172523961,
+      "Bindi Irwin": 0.1277955271565495,
+      "Paula Deen": 0.07667731629392971
+    },
+    "7": {
+      "Alexa PenaVega": 0.1244343891402715,
+      "Carlos PenaVega": 0.12669683257918551,
+      "Alek Skarlatos": 0.1255656108597285,
+      "Andy Grammer": 0.12669683257918551,
+      "Tamar Braxton": 0.12330316742081449,
+      "Nick Carter": 0.12330316742081449,
+      "Hayes Grier": 0.11877828054298643,
+      "Bindi Irwin": 0.13122171945701358
+    },
+    "8": {
+      "Alexa PenaVega": 0.13917465724120795,
+      "Carlos PenaVega": 0.14948396747618806,
+      "Alek Skarlatos": 0.12886637793725136,
+      "Andy Grammer": 0.1237106918887379,
+      "Tamar Braxton": 0.1443303432897215,
+      "Nick Carter": 0.17010361887717176,
+      "Bindi Irwin": 0.1443303432897215
+    },
+    "9": {
+      "Alexa PenaVega": 0.14184397163120566,
+      "Carlos PenaVega": 0.1641337386018237,
+      "Alek Skarlatos": 0.1691995947315096,
+      "Tamar Braxton": 0.1752786220871327,
+      "Nick Carter": 0.16717325227963525,
+      "Bindi Irwin": 0.182370820668693
+    },
+    "10": {
+      "Carlos PenaVega": 0.26582278481012656,
+      "Alek Skarlatos": 0.24050632911392406,
+      "Nick Carter": 0.2278481012658229,
+      "Bindi Irwin": 0.26582278481012656
+    },
+    "11": {
+      "Carlos PenaVega": 0.23728748922668574,
+      "Alek Skarlatos": 0.25423750359110475,
+      "Nick Carter": 0.25423750359110475,
+      "Bindi Irwin": 0.25423750359110475
+    }
+  },
+  "22": {
+    "1": {
+      "Mischa Barton": 0.06751054852320675,
+      "Kim Fields": 0.08438818565400844,
+      "Jodie Sweetin": 0.08438818565400844,
+      "Doug Flutie": 0.06329113924050632,
+      "Von Miller": 0.08860759493670887,
+      "Antonio Brown": 0.08860759493670885,
+      "Paige VanZant": 0.0886075949367089,
+      "Geraldo Rivera": 0.054852320675105426,
+      "Nyle DiMarco": 0.0970464135021097,
+      "Ginger Zee": 0.0970464135021097,
+      "Wanya Morris": 0.0970464135021097,
+      "Marla Maples": 0.08860759493670886
+    },
+    "2": {
+      "Mischa Barton": 0.06355932203389836,
+      "Kim Fields": 0.08050847457627118,
+      "Jodie Sweetin": 0.08898305084745763,
+      "Doug Flutie": 0.0847457627118644,
+      "Von Miller": 0.0847457627118644,
+      "Antonio Brown": 0.08050847457627114,
+      "Paige VanZant": 0.1016949152542373,
+      "Geraldo Rivera": 0.05508474576271186,
+      "Nyle DiMarco": 0.0847457627118644,
+      "Ginger Zee": 0.08898305084745761,
+      "Wanya Morris": 0.1016949152542373,
+      "Marla Maples": 0.0847457627118644
+    },
+    "3": {
+      "Mischa Barton": 0.07594936708860753,
+      "Kim Fields": 0.09282700421940929,
+      "Jodie Sweetin": 0.09704641350210974,
+      "Doug Flutie": 0.08438818565400838,
+      "Von Miller": 0.08438818565400838,
+      "Antonio Brown": 0.08438818565400845,
+      "Paige VanZant": 0.09704641350210971,
+      "Nyle DiMarco": 0.10548523206751062,
+      "Ginger Zee": 0.08860759493670887,
+      "Wanya Morris": 0.10126582278481011,
+      "Marla Maples": 0.08860759493670886
+    },
+    "4": {
+      "Kim Fields": 0.10031347962382445,
+      "Jodie Sweetin": 0.0846394984326019,
+      "Doug Flutie": 0.08777429467084637,
+      "Von Miller": 0.10031347962382439,
+      "Antonio Brown": 0.109717868338558,
+      "Paige VanZant": 0.11285266457680254,
+      "Nyle DiMarco": 0.10658307210031348,
+      "Ginger Zee": 0.11285266457680251,
+      "Wanya Morris": 0.10971786833855801,
+      "Marla Maples": 0.07523510971786831
+    },
+    "5": {
+      "Kim Fields": 0.10144927536231885,
+      "Jodie Sweetin": 0.12681159420289856,
+      "Doug Flutie": 0.10144927536231885,
+      "Von Miller": 0.10507246376811596,
+      "Antonio Brown": 0.09420289855072464,
+      "Paige VanZant": 0.11231884057971014,
+      "Nyle DiMarco": 0.13405797101449274,
+      "Ginger Zee": 0.1159420289855072,
+      "Wanya Morris": 0.10869565217391304
+    },
+    "6": {
+      "Kim Fields": 0.10572687224669604,
+      "Jodie Sweetin": 0.11013215859030837,
+      "Doug Flutie": 0.09251101321585903,
+      "Von Miller": 0.10572687224669619,
+      "Antonio Brown": 0.11894273127753308,
+      "Paige VanZant": 0.12334801762114522,
+      "Nyle DiMarco": 0.11013215859030837,
+      "Ginger Zee": 0.10572687224669597,
+      "Wanya Morris": 0.1277533039647577
+    },
+    "7": {
+      "Kim Fields": 0.1199376947040498,
+      "Jodie Sweetin": 0.12227414330218064,
+      "Von Miller": 0.11993769470404984,
+      "Antonio Brown": 0.12149532710280374,
+      "Paige VanZant": 0.1285046728971964,
+      "Nyle DiMarco": 0.1308411214953271,
+      "Ginger Zee": 0.12850467289719625,
+      "Wanya Morris": 0.12850467289719622
+    },
+    "8": {
+      "Jodie Sweetin": 0.14595660749506906,
+      "Antonio Brown": 0.16370808678500987,
+      "Paige VanZant": 0.16568047337278108,
+      "Nyle DiMarco": 0.17159763313609466,
+      "Ginger Zee": 0.17751479289940827,
+      "Wanya Morris": 0.1755424063116371
+    },
+    "9": {
+      "Antonio Brown": 0.1916376306620209,
+      "Paige VanZant": 0.20557491289198607,
+      "Nyle DiMarco": 0.20325203252032523,
+      "Ginger Zee": 0.20673635307781651,
+      "Wanya Morris": 0.19279907084785136
+    },
+    "10": {
+      "Paige VanZant": 0.340996970101012,
+      "Nyle DiMarco": 0.3333325670462853,
+      "Ginger Zee": 0.32567046285270274
+    }
+  },
+  "23": {
+    "1": {
+      "Jake T. Austin": 0.06666666666666668,
+      "Maureen McCormick": 0.06666666666666662,
+      "Marilu Henner": 0.08181818181818182,
+      "Ryan Lochte": 0.07272727272727272,
+      "Calvin Johnson Jr.": 0.07878787878787878,
+      "Laurie Hernandez": 0.0939393939393939,
+      "Amber Rose": 0.07272727272727272,
+      "Rick Perry": 0.06060606060606055,
+      "James Hinchcliffe": 0.09393939393939393,
+      "Babyface": 0.07878787878787878,
+      "Vanilla Ice": 0.07575757575757591,
+      "Jana Kramer": 0.08181818181818182,
+      "Terra Jole": 0.07575757575757583
+    },
+    "2": {
+      "Jake T. Austin": 0.06249999999999983,
+      "Maureen McCormick": 0.07386363636363638,
+      "Marilu Henner": 0.07670454545454546,
+      "Ryan Lochte": 0.06818181818181823,
+      "Calvin Johnson Jr.": 0.07954545454545454,
+      "Laurie Hernandez": 0.09090909090909094,
+      "Amber Rose": 0.06818181818181814,
+      "Rick Perry": 0.06818181818181818,
+      "James Hinchcliffe": 0.08238636363636363,
+      "Babyface": 0.08522727272727272,
+      "Vanilla Ice": 0.07386363636363644,
+      "Jana Kramer": 0.08238636363636376,
+      "Terra Jole": 0.08806818181818182
+    },
+    "3": {
+      "Maureen McCormick": 0.0861538461538463,
+      "Marilu Henner": 0.08615384615384615,
+      "Ryan Lochte": 0.07692307692307693,
+      "Calvin Johnson Jr.": 0.09846153846153843,
+      "Laurie Hernandez": 0.0953846153846154,
+      "Amber Rose": 0.07692307692307687,
+      "Rick Perry": 0.07076923076923076,
+      "James Hinchcliffe": 0.08923076923076922,
+      "Babyface": 0.07692307692307687,
+      "Vanilla Ice": 0.0707692307692307,
+      "Jana Kramer": 0.08,
+      "Terra Jole": 0.09230769230769231
+    },
+    "4": {
+      "Maureen McCormick": 0.09195402298850579,
+      "Marilu Henner": 0.0881226053639847,
+      "Ryan Lochte": 0.0842911877394636,
+      "Calvin Johnson Jr.": 0.08812260536398449,
+      "Laurie Hernandez": 0.11494252873563225,
+      "Amber Rose": 0.09195402298850576,
+      "James Hinchcliffe": 0.10727969348659004,
+      "Babyface": 0.06896551724137927,
+      "Vanilla Ice": 0.08045977011494256,
+      "Jana Kramer": 0.08812260536398477,
+      "Terra Jole": 0.09578544061302675
+    },
+    "5": {
+      "Maureen McCormick": 0.10434782608695652,
+      "Marilu Henner": 0.11739130434782623,
+      "Ryan Lochte": 0.10434782608695652,
+      "Calvin Johnson Jr.": 0.10434782608695654,
+      "Laurie Hernandez": 0.10869565217391304,
+      "Amber Rose": 0.10434782608695652,
+      "James Hinchcliffe": 0.126086956521739,
+      "Jana Kramer": 0.11304347826086962,
+      "Terra Jole": 0.11739130434782609
+    },
+    "6": {
+      "Maureen McCormick": 0.10163934426229508,
+      "Marilu Henner": 0.11147540983606558,
+      "Ryan Lochte": 0.09836065573770492,
+      "Calvin Johnson Jr.": 0.12131147540983617,
+      "Laurie Hernandez": 0.12131147540983611,
+      "Amber Rose": 0.09180327868852445,
+      "James Hinchcliffe": 0.12459016393442623,
+      "Jana Kramer": 0.13114754098360654,
+      "Terra Jole": 0.09836065573770492
+    },
+    "7": {
+      "Maureen McCormick": 0.1161524500907441,
+      "Marilu Henner": 0.11978221415607986,
+      "Ryan Lochte": 0.11978221415607986,
+      "Calvin Johnson Jr.": 0.13430127041742287,
+      "Laurie Hernandez": 0.12522686025408347,
+      "James Hinchcliffe": 0.13430127041742287,
+      "Jana Kramer": 0.12522686025408347,
+      "Terra Jole": 0.12522686025408347
+    },
+    "8": {
+      "Marilu Henner": 0.12769498609783028,
+      "Ryan Lochte": 0.11276959811236961,
+      "Calvin Johnson Jr.": 0.14925387985460684,
+      "Laurie Hernandez": 0.1641792678400675,
+      "James Hinchcliffe": 0.1741285314711756,
+      "Jana Kramer": 0.14925387985460684,
+      "Terra Jole": 0.1227198567693434
+    },
+    "9": {
+      "Marilu Henner": 0.15859030837004406,
+      "Calvin Johnson Jr.": 0.16299559471365638,
+      "Laurie Hernandez": 0.1762114537444934,
+      "James Hinchcliffe": 0.15859030837004406,
+      "Jana Kramer": 0.1762114537444934,
+      "Terra Jole": 0.1674008810572686
+    },
+    "10": {
+      "Calvin Johnson Jr.": 0.20477815699658705,
+      "Laurie Hernandez": 0.20477815699658702,
+      "James Hinchcliffe": 0.20136518771331058,
+      "Jana Kramer": 0.19795221843003416,
+      "Terra Jole": 0.19112627986348127
+    },
+    "11": {
+      "Calvin Johnson Jr.": 0.25191616266698036,
+      "Laurie Hernandez": 0.2584885858282495,
+      "James Hinchcliffe": 0.25629755904896034,
+      "Jana Kramer": 0.23329769245580978
+    }
+  },
+  "24": {
+    "1": {
+      "Charo": 0.0695364238410596,
+      "Mr. T": 0.06622516556291391,
+      "Heather Morris": 0.09271523178807947,
+      "Nancy Kerrigan": 0.09271523178807953,
+      "Bonner Bolton": 0.07284768211920534,
+      "Simone Biles": 0.10596026490066232,
+      "David Ross": 0.09271523178807942,
+      "Rashad Jennings": 0.10264900662251653,
+      "Chris Kattan": 0.056291390728476824,
+      "Erika Jayne": 0.07947019867549669,
+      "Normani": 0.08940397350993377,
+      "Nick Viall": 0.07947019867549669
+    },
+    "2": {
+      "Charo": 0.07621951219512194,
+      "Mr. T": 0.06707317073170732,
+      "Heather Morris": 0.09146341463414634,
+      "Nancy Kerrigan": 0.0853658536585366,
+      "Bonner Bolton": 0.08536585365853647,
+      "Simone Biles": 0.0884146341463414,
+      "David Ross": 0.08231707317073171,
+      "Rashad Jennings": 0.0975609756097561,
+      "Chris Kattan": 0.06707317073170732,
+      "Erika Jayne": 0.08536585365853677,
+      "Normani": 0.0975609756097561,
+      "Nick Viall": 0.07621951219512195
+    },
+    "3": {
+      "Charo": 0.07619047619047639,
+      "Mr. T": 0.0761904761904762,
+      "Heather Morris": 0.10476190476190483,
+      "Nancy Kerrigan": 0.10476190476190464,
+      "Bonner Bolton": 0.0761904761904762,
+      "Simone Biles": 0.10158730158730159,
+      "David Ross": 0.09841269841269841,
+      "Rashad Jennings": 0.08888888888888893,
+      "Erika Jayne": 0.08253968253968254,
+      "Normani": 0.10793650793650783,
+      "Nick Viall": 0.08253968253968254
+    },
+    "4": {
+      "Mr. T": 0.08588957055214724,
+      "Heather Morris": 0.1073619631901841,
+      "Nancy Kerrigan": 0.10122699386503067,
+      "Bonner Bolton": 0.09815950920245411,
+      "Simone Biles": 0.11042944785276074,
+      "David Ross": 0.09509202453987717,
+      "Rashad Jennings": 0.1196319018404908,
+      "Erika Jayne": 0.09202453987730061,
+      "Normani": 0.09815950920245406,
+      "Nick Viall": 0.09202453987730053
+    },
+    "5": {
+      "Heather Morris": 0.11184210526315792,
+      "Nancy Kerrigan": 0.11842105263157891,
+      "Bonner Bolton": 0.10087719298245608,
+      "Simone Biles": 0.12499999999999996,
+      "David Ross": 0.10416666666666662,
+      "Rashad Jennings": 0.1052631578947369,
+      "Erika Jayne": 0.09429824561403513,
+      "Normani": 0.12828947368421056,
+      "Nick Viall": 0.1118421052631579
+    },
+    "6": {
+      "Heather Morris": 0.104089219330855,
+      "Nancy Kerrigan": 0.12453531598513011,
+      "Bonner Bolton": 0.1245353159851301,
+      "Simone Biles": 0.12825278810408922,
+      "David Ross": 0.12639405204460966,
+      "Rashad Jennings": 0.13011152416356878,
+      "Normani": 0.13382899628252787,
+      "Nick Viall": 0.1282527881040892
+    },
+    "7": {
+      "Nancy Kerrigan": 0.12055335968379438,
+      "Bonner Bolton": 0.14031620553359686,
+      "Simone Biles": 0.1541501976284585,
+      "David Ross": 0.13636363636363638,
+      "Rashad Jennings": 0.1541501976284585,
+      "Normani": 0.16600790513834007,
+      "Nick Viall": 0.1284584980237154
+    },
+    "8": {
+      "Bonner Bolton": 0.166189111747851,
+      "Simone Biles": 0.20630372492836677,
+      "David Ross": 0.18624641833810887,
+      "Rashad Jennings": 0.2148997134670487,
+      "Normani": 0.22636103151862466
+    },
+    "9": {
+      "Simone Biles": 0.231023102310231,
+      "David Ross": 0.264026402640264,
+      "Rashad Jennings": 0.25412541254125415,
+      "Normani": 0.2508250825082508
+    },
+    "10": {
+      "David Ross": 0.3150292500591764,
+      "Rashad Jennings": 0.3439307536171315,
+      "Normani": 0.34103999632369203
+    }
+  },
+  "25": {
+    "1": {
+      "Sasha Pieterse": 0.07531380753138071,
+      "Frankie Muniz": 0.07949790794979085,
+      "Jordan Fisher": 0.09205020920502092,
+      "Derek Fisher": 0.07531380753138076,
+      "Nikki Bella": 0.08368200836820083,
+      "Terrell Owens": 0.06276150627615061,
+      "Victoria Arlen": 0.0794979079497908,
+      "Barbara Corcoran": 0.05857740585774056,
+      "Lindsey Stirling": 0.09205020920502092,
+      "Debbie Gibson": 0.07112970711297072,
+      "Nick Lachey": 0.07531380753138074,
+      "Drew Scott": 0.06694560669456066,
+      "Vanessa Lachey": 0.0878661087866109
+    },
+    "2": {
+      "Sasha Pieterse": 0.08226691042047535,
+      "Frankie Muniz": 0.08775137111517362,
+      "Jordan Fisher": 0.08775137111517364,
+      "Derek Fisher": 0.07312614259597827,
+      "Nikki Bella": 0.07129798903107859,
+      "Terrell Owens": 0.07129798903107862,
+      "Victoria Arlen": 0.08043875685557586,
+      "Barbara Corcoran": 0.062157221206581355,
+      "Lindsey Stirling": 0.08226691042047532,
+      "Debbie Gibson": 0.06764168190127978,
+      "Nick Lachey": 0.07312614259597813,
+      "Drew Scott": 0.07495429616087729,
+      "Vanessa Lachey": 0.08592321755027418
+    },
+    "3": {
+      "Sasha Pieterse": 0.0778688524590164,
+      "Frankie Muniz": 0.0860655737704918,
+      "Jordan Fisher": 0.10245901639344261,
+      "Derek Fisher": 0.0860655737704918,
+      "Nikki Bella": 0.08606557377049183,
+      "Terrell Owens": 0.0860655737704918,
+      "Victoria Arlen": 0.09016393442622951,
+      "Lindsey Stirling": 0.11065573770491803,
+      "Nick Lachey": 0.0860655737704918,
+      "Drew Scott": 0.09426229508196705,
+      "Vanessa Lachey": 0.0942622950819672
+    },
+    "4": {
+      "Sasha Pieterse": 0.08856088560885607,
+      "Frankie Muniz": 0.08856088560885617,
+      "Jordan Fisher": 0.1070110701107011,
+      "Derek Fisher": 0.08118081180811804,
+      "Nikki Bella": 0.0885608856088561,
+      "Terrell Owens": 0.08856088560885607,
+      "Victoria Arlen": 0.0996309963099631,
+      "Lindsey Stirling": 0.09594095940959413,
+      "Nick Lachey": 0.08487084870848707,
+      "Drew Scott": 0.08856088560885605,
+      "Vanessa Lachey": 0.08856088560885608
+    },
+    "5": {
+      "Sasha Pieterse": 0.08429118773946359,
+      "Frankie Muniz": 0.11111111111111113,
+      "Jordan Fisher": 0.11494252873563218,
+      "Nikki Bella": 0.10344827586206898,
+      "Terrell Owens": 0.09578544061302682,
+      "Victoria Arlen": 0.10344827586206895,
+      "Lindsey Stirling": 0.10727969348659006,
+      "Nick Lachey": 0.09195402298850573,
+      "Drew Scott": 0.09578544061302696,
+      "Vanessa Lachey": 0.09195402298850561
+    },
+    "6": {
+      "Frankie Muniz": 0.10130718954248366,
+      "Jordan Fisher": 0.12745098039215685,
+      "Nikki Bella": 0.11764705882352941,
+      "Terrell Owens": 0.12091503267973858,
+      "Victoria Arlen": 0.10130718954248363,
+      "Lindsey Stirling": 0.130718954248366,
+      "Nick Lachey": 0.08496732026143791,
+      "Drew Scott": 0.0980392156862745,
+      "Vanessa Lachey": 0.11764705882352941
+    },
+    "7": {
+      "Frankie Muniz": 0.1395348837209302,
+      "Jordan Fisher": 0.12558139534883717,
+      "Nikki Bella": 0.11162790697674418,
+      "Terrell Owens": 0.12480620155038757,
+      "Victoria Arlen": 0.1325581395348837,
+      "Lindsey Stirling": 0.12015503875968998,
+      "Drew Scott": 0.1325581395348837,
+      "Vanessa Lachey": 0.11317829457364342
+    },
+    "8": {
+      "Frankie Muniz": 0.16932907348242812,
+      "Jordan Fisher": 0.19169329073482427,
+      "Terrell Owens": 0.14802981895633655,
+      "Victoria Arlen": 0.15761448349307777,
+      "Lindsey Stirling": 0.17252396166134185,
+      "Drew Scott": 0.1608093716719915
+    },
+    "9": {
+      "Frankie Muniz": 0.19382716049382717,
+      "Jordan Fisher": 0.21481481481481482,
+      "Victoria Arlen": 0.17530864197530865,
+      "Lindsey Stirling": 0.2111111111111111,
+      "Drew Scott": 0.20493827160493827
+    },
+    "10": {
+      "Frankie Muniz": 0.24866694332774683,
+      "Jordan Fisher": 0.2557729554628947,
+      "Lindsey Stirling": 0.2557729554628947,
+      "Drew Scott": 0.23978714574646376
+    }
+  },
+  "26": {
+    "1": {
+      "Jamie Anderson": 0.08095238095238097,
+      "Johnny Damon": 0.08571428571428572,
+      "Kareem Abdul-Jabbar": 0.09047619047619047,
+      "Arike Ogunbowale": 0.09523809523809523,
+      "Jennie Finch Daigle": 0.1,
+      "Chris Mazdzer": 0.0999999999999999,
+      "Mirai Nagasu": 0.10952380952380952,
+      "Tonya Harding": 0.10952380952380952,
+      "Josh Norman": 0.11428571428571428,
+      "Adam Rippon": 0.11428571428571428
+    },
+    "2": {
+      "Kareem Abdul-Jabbar": 0.11028037383177566,
+      "Arike Ogunbowale": 0.11339563862928356,
+      "Jennie Finch Daigle": 0.1264797507788162,
+      "Chris Mazdzer": 0.1233644859813084,
+      "Mirai Nagasu": 0.13831775700934576,
+      "Tonya Harding": 0.1233644859813084,
+      "Josh Norman": 0.12647975077881618,
+      "Adam Rippon": 0.13831775700934584
+    },
+    "3": {
+      "Jennie Finch Daigle": 0.13744075829383887,
+      "Chris Mazdzer": 0.15639810426540296,
+      "Mirai Nagasu": 0.16587677725118483,
+      "Tonya Harding": 0.16587677725118483,
+      "Josh Norman": 0.18009478672985768,
+      "Adam Rippon": 0.19431279620853084
+    },
+    "4": {
+      "Tonya Harding": 0.32748538011695905,
+      "Josh Norman": 0.33333333333333337,
+      "Adam Rippon": 0.3391812865497076
+    }
+  },
+  "27": {
+    "1": {
+      "Juan Pablo Di Pace": 0.0862745098039215,
+      "Evanna Lynch": 0.07058823529411765,
+      "Nancy McKeon": 0.07647058823529412,
+      "John Schneider": 0.07058823529411774,
+      "Milo Manheim": 0.0784313725490196,
+      "Danelle Umstead": 0.07058823529411766,
+      "Mary Lou Retton": 0.07843137254901962,
+      "DeMarcus Ware": 0.09019607843137255,
+      "Nikki Glaser": 0.05490196078431374,
+      "Bobby Bones": 0.07843137254901957,
+      "Tinashe": 0.09019607843137255,
+      "Alexis Ren": 0.08627450980392169,
+      "Joe Amabile": 0.06862745098039215
+    },
+    "2": {
+      "Juan Pablo Di Pace": 0.09611829944547133,
+      "Evanna Lynch": 0.08872458410351201,
+      "Nancy McKeon": 0.07578558225508318,
+      "John Schneider": 0.07948243992606298,
+      "Milo Manheim": 0.09611829944547134,
+      "Danelle Umstead": 0.06469500924214416,
+      "Mary Lou Retton": 0.08502772643253234,
+      "DeMarcus Ware": 0.08687615526802218,
+      "Bobby Bones": 0.07208872458410347,
+      "Tinashe": 0.09611829944547134,
+      "Alexis Ren": 0.09057301293900184,
+      "Joe Amabile": 0.06839186691312386
+    },
+    "3": {
+      "Juan Pablo Di Pace": 0.11070110701107011,
+      "Evanna Lynch": 0.0996309963099631,
+      "Nancy McKeon": 0.066420664206642,
+      "John Schneider": 0.07749077490774908,
+      "Milo Manheim": 0.0996309963099631,
+      "Mary Lou Retton": 0.0885608856088561,
+      "DeMarcus Ware": 0.09594095940959411,
+      "Bobby Bones": 0.0848708487084871,
+      "Tinashe": 0.0996309963099631,
+      "Alexis Ren": 0.09594095940959407,
+      "Joe Amabile": 0.08118081180811806
+    },
+    "4": {
+      "Juan Pablo Di Pace": 0.10344827586206895,
+      "Evanna Lynch": 0.10344827586206898,
+      "John Schneider": 0.09051724137931039,
+      "Milo Manheim": 0.125,
+      "Mary Lou Retton": 0.11206896551724138,
+      "DeMarcus Ware": 0.0948275862068966,
+      "Bobby Bones": 0.08908045977011493,
+      "Tinashe": 0.06321839080459771,
+      "Alexis Ren": 0.10775862068965528,
+      "Joe Amabile": 0.11063218390804594
+    },
+    "5": {
+      "Juan Pablo Di Pace": 0.13063063063063063,
+      "Evanna Lynch": 0.10810810810810809,
+      "John Schneider": 0.10810810810810811,
+      "Milo Manheim": 0.12162162162162163,
+      "Mary Lou Retton": 0.11261261261261261,
+      "DeMarcus Ware": 0.11711711711711711,
+      "Bobby Bones": 0.09459459459459463,
+      "Alexis Ren": 0.1306306306306306,
+      "Joe Amabile": 0.07657657657657657
+    },
+    "6": {
+      "Juan Pablo Di Pace": 0.13100436681222702,
+      "Evanna Lynch": 0.12663755458515283,
+      "John Schneider": 0.10480349344978168,
+      "Milo Manheim": 0.13100436681222702,
+      "Mary Lou Retton": 0.08296943231441059,
+      "DeMarcus Ware": 0.11353711790393017,
+      "Bobby Bones": 0.09606986899563319,
+      "Alexis Ren": 0.11790393013100431,
+      "Joe Amabile": 0.09606986899563319
+    },
+    "7": {
+      "Juan Pablo Di Pace": 0.12873563218390804,
+      "Evanna Lynch": 0.13563218390804588,
+      "John Schneider": 0.11187739463601531,
+      "Milo Manheim": 0.13333333333333333,
+      "DeMarcus Ware": 0.11417624521072797,
+      "Bobby Bones": 0.12183908045977009,
+      "Alexis Ren": 0.12643678160919541,
+      "Joe Amabile": 0.12796934865900386
+    },
+    "8": {
+      "Juan Pablo Di Pace": 0.1397515527950311,
+      "Evanna Lynch": 0.18012422360248448,
+      "Milo Manheim": 0.17080745341614906,
+      "Bobby Bones": 0.18633540372670812,
+      "Alexis Ren": 0.18012422360248448,
+      "Joe Amabile": 0.14285714285714285
+    },
+    "9": {
+      "Evanna Lynch": 0.2597402597402598,
+      "Milo Manheim": 0.2597402597402597,
+      "Bobby Bones": 0.23376623376623373,
+      "Alexis Ren": 0.24675324675324675
+    }
+  }
+}
